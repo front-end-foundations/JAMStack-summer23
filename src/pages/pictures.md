@@ -11,6 +11,8 @@ images:
 
 ## Markdown, single image:
 
+An obnoxious change.
+
 ![alt info goes here]( {{ singleImage }} )
 
 Line of text.
