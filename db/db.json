@@ -1,2056 +1,1975 @@
 {
   "results": [
     {
-      "section": "",
+      "section": "nyregion",
       "subsection": "",
-      "title": "",
-      "abstract": "",
-      "url": "",
-      "uri": "nyt://promo/4981fd7b-c61a-5b95-bb73-aaf8d10c8484",
-      "byline": "",
-      "item_type": "Promo",
-      "updated_date": "2023-02-22T14:05:45-05:00",
-      "created_date": "2023-02-22T05:29:13-05:00",
-      "published_date": "2023-02-22T05:29:13-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [],
-      "org_facet": [],
-      "per_facet": [],
-      "geo_facet": [],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22ukraine-blog-header-2am-lvtb/22ukraine-blog-header-2am-lvtb-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1365,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Ukrainian soldiers at a position near the front line in eastern Ukraine on Tuesday.",
-          "copyright": "Tyler Hicks/The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22ukraine-blog-header-2am-lvtb/22ukraine-blog-header-2am-lvtb-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Ukrainian soldiers at a position near the front line in eastern Ukraine on Tuesday.",
-          "copyright": "Tyler Hicks/The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22ukraine-blog-header-2am-lvtb/22ukraine-blog-header-2am-lvtb-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Ukrainian soldiers at a position near the front line in eastern Ukraine on Tuesday.",
-          "copyright": "Tyler Hicks/The New York Times"
-        }
-      ],
-      "short_url": ""
-    },
-    {
-      "section": "world",
-      "subsection": "europe",
-      "title": "How Poland, Long Leery of Foreigners, Opened Up to Ukrainians",
-      "abstract": "The country, once one of the world’s most ethnically and culturally homogeneous, has accommodated far more refugees from neighboring Ukraine than any other nation.",
-      "url": "https://www.nytimes.com/2023/02/22/world/europe/poland-ukraine-war-refugees.html",
-      "uri": "nyt://article/9f53ec0a-f1f0-5cee-9f4e-cb2061477fb3",
-      "byline": "By Andrew Higgins",
+      "title": "To Improve Public Housing, New York City Moves to Tear It Down",
+      "abstract": "After surveying residents at two developments in Manhattan, the agency is moving forward with a $1.5 billion plan to demolish and replace the buildings.",
+      "url": "https://www.nytimes.com/2023/06/20/nyregion/public-housing-demolish.html",
+      "uri": "nyt://article/51563115-3370-5c46-9ba5-a6bf4371c967",
+      "byline": "By Mihir Zaveri",
       "item_type": "Article",
-      "updated_date": "2023-02-22T10:51:17-05:00",
-      "created_date": "2023-02-22T06:02:01-05:00",
-      "published_date": "2023-02-22T06:02:01-05:00",
+      "updated_date": "2023-06-20T20:01:35-04:00",
+      "created_date": "2023-06-20T20:01:35-04:00",
+      "published_date": "2023-06-20T20:01:35-04:00",
       "material_type_facet": "",
       "kicker": "",
       "des_facet": [
-        "Russian Invasion of Ukraine (2022)",
-        "Refugees and Displaced Persons",
-        "Politics and Government"
+        "Public and Subsidized Housing",
+        "Demolition",
+        "Real Estate and Housing (Residential)"
       ],
-      "org_facet": [],
-      "per_facet": [],
-      "geo_facet": ["Ukraine", "Poland", "Wroclaw (Poland)"],
+      "org_facet": ["City Council (NYC)", "Housing Authority (NYC)"],
+      "per_facet": ["Adams, Eric L"],
+      "geo_facet": ["Chelsea (Manhattan, NY)", "New York City"],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21poland-refugees-01-zghw/21poland-refugees-01-zghw-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2023/06/25/nyregion/25nycha1/21nycha1-superJumbo.jpg",
           "format": "Super Jumbo",
           "height": 1366,
           "width": 2048,
           "type": "image",
           "subtype": "photo",
-          "caption": "The Goncharuk family arrived in Wroclaw, Poland, from Kharkiv, Ukraine. They live in a single room at a former college dormitory.",
-          "copyright": "Maciek Nabrdalik for The New York Times"
+          "caption": "Elliot-Chelsea Houses in Manhattan will be torn down and replaced with new buildings.",
+          "copyright": "Roshni Khatri for The New York Times"
         },
         {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21poland-refugees-01-zghw/21poland-refugees-01-zghw-threeByTwoSmallAt2X.jpg",
+          "url": "https://static01.nyt.com/images/2023/06/25/nyregion/25nycha1/21nycha1-threeByTwoSmallAt2X.jpg",
           "format": "threeByTwoSmallAt2X",
           "height": 400,
           "width": 600,
           "type": "image",
           "subtype": "photo",
-          "caption": "The Goncharuk family arrived in Wroclaw, Poland, from Kharkiv, Ukraine. They live in a single room at a former college dormitory.",
-          "copyright": "Maciek Nabrdalik for The New York Times"
+          "caption": "Elliot-Chelsea Houses in Manhattan will be torn down and replaced with new buildings.",
+          "copyright": "Roshni Khatri for The New York Times"
         },
         {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21poland-refugees-01-zghw/21poland-refugees-01-zghw-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2023/06/25/nyregion/25nycha1/21nycha1-thumbLarge.jpg",
           "format": "Large Thumbnail",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "The Goncharuk family arrived in Wroclaw, Poland, from Kharkiv, Ukraine. They live in a single room at a former college dormitory.",
-          "copyright": "Maciek Nabrdalik for The New York Times"
+          "caption": "Elliot-Chelsea Houses in Manhattan will be torn down and replaced with new buildings.",
+          "copyright": "Roshni Khatri for The New York Times"
         }
       ],
-      "short_url": "https://nyti.ms/3YQWv1e"
-    },
-    {
-      "section": "world",
-      "subsection": "middleeast",
-      "title": "At Least 10 Palestinians Killed During Israeli Raid in West Bank",
-      "abstract": "An hourslong gunfight broke out between Israeli soldiers and Palestinian gunmen during an Israeli operation to arrest Palestinian fighters. The violence left the region braced for further unrest.",
-      "url": "https://www.nytimes.com/2023/02/22/world/middleeast/west-bank-nablus-palestinians-killed.html",
-      "uri": "nyt://article/29074816-2086-5c75-9889-d499f4bd1571",
-      "byline": "By Patrick Kingsley",
-      "item_type": "Article",
-      "updated_date": "2023-02-22T13:26:26-05:00",
-      "created_date": "2023-02-22T07:56:50-05:00",
-      "published_date": "2023-02-22T07:56:50-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": ["Palestinians", "Defense and Military Forces"],
-      "org_facet": [],
-      "per_facet": [],
-      "geo_facet": ["Nablus (West Bank)", "Israel"],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22westbank-hgqk/22westbank-hgqk-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1365,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "The West Bank city of Nablus on Wednesday. Hamas, the Islamist group that controls the Gaza Strip, warned that the killings would not pass “without a response.”",
-          "copyright": "Majdi Mohammed/Associated Press"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22westbank-hgqk/22westbank-hgqk-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "The West Bank city of Nablus on Wednesday. Hamas, the Islamist group that controls the Gaza Strip, warned that the killings would not pass “without a response.”",
-          "copyright": "Majdi Mohammed/Associated Press"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22westbank-hgqk/22westbank-hgqk-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "The West Bank city of Nablus on Wednesday. Hamas, the Islamist group that controls the Gaza Strip, warned that the killings would not pass “without a response.”",
-          "copyright": "Majdi Mohammed/Associated Press"
-        }
-      ],
-      "short_url": "https://nyti.ms/3krMacS"
-    },
-    {
-      "section": "world",
-      "subsection": "asia",
-      "title": "South Korea Inches Toward Same-Sex Equality, but Broader Bill Is Stalled",
-      "abstract": "Christian conservatives in the country have campaigned tirelessly for decades to prevent legislation that would offer protections to L.G.B.T.Q. people.",
-      "url": "https://www.nytimes.com/2023/02/22/world/asia/south-korea-lgbtq-law.html",
-      "uri": "nyt://article/909268d8-b94f-5928-833d-d6822ccfd3d9",
-      "byline": "By John Yoon",
-      "item_type": "Article",
-      "updated_date": "2023-02-22T00:04:35-05:00",
-      "created_date": "2023-02-22T00:04:35-05:00",
-      "published_date": "2023-02-22T00:04:35-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Discrimination",
-        "Homosexuality and Bisexuality",
-        "Law and Legislation",
-        "Politics and Government",
-        "Transgender and Transsexuals",
-        "Same-Sex Marriage, Civil Unions and Domestic Partnerships",
-        "Christians and Christianity",
-        "Conservatism (US Politics)",
-        "Legislatures and Parliaments"
-      ],
-      "org_facet": ["People Power Party"],
-      "per_facet": [],
-      "geo_facet": ["South Korea"],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/00skorea-lgbtq-01-bzhj/00skorea-lgbtq-01-bzhj-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1365,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Seoul City Hall Plaza during a Pride event in 2022. A bill that would protect sexual minorities against discrimination has encountered fierce opposition in South Korea.",
-          "copyright": "Anthony Wallace/Agence France-Presse — Getty Images"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/00skorea-lgbtq-01-bzhj/00skorea-lgbtq-01-bzhj-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Seoul City Hall Plaza during a Pride event in 2022. A bill that would protect sexual minorities against discrimination has encountered fierce opposition in South Korea.",
-          "copyright": "Anthony Wallace/Agence France-Presse — Getty Images"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/00skorea-lgbtq-01-bzhj/00skorea-lgbtq-01-bzhj-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Seoul City Hall Plaza during a Pride event in 2022. A bill that would protect sexual minorities against discrimination has encountered fierce opposition in South Korea.",
-          "copyright": "Anthony Wallace/Agence France-Presse — Getty Images"
-        }
-      ],
-      "short_url": "https://nyti.ms/3KuRBTg"
-    },
-    {
-      "section": "world",
-      "subsection": "europe",
-      "title": "U.K. Court Upholds Ruling Stripping Shamima Begum’s Citizenship",
-      "abstract": "Ms. Begum was one of three teenage girls from London who traveled to Syria in 2015 to join the Islamic State.",
-      "url": "https://www.nytimes.com/2023/02/22/world/europe/shamima-begum-uk-citizenship-isis.html",
-      "uri": "nyt://article/ac5fadef-c253-5d9a-9bf8-a01b1c9ef8f5",
-      "byline": "By Megan Specia",
-      "item_type": "Article",
-      "updated_date": "2023-02-22T08:53:37-05:00",
-      "created_date": "2023-02-22T05:29:20-05:00",
-      "published_date": "2023-02-22T05:29:20-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Terrorism",
-        "Citizenship and Naturalization",
-        "Decisions and Verdicts",
-        "Politics and Government"
-      ],
-      "org_facet": ["Islamic State in Iraq and Syria (ISIS)"],
-      "per_facet": [
-        "Begum, Shamima",
-        "Javid, Sajid (1969- )",
-        "Sultana, Kadiza",
-        "Abase, Amira"
-      ],
-      "geo_facet": ["Syria", "London (England)"],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2022/11/27/world/00uk-begum01/00uk-begum01-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1365,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Shamima Begum left Britain when she was 15. Her lawyers said that she was smuggled into Syria for sexual exploitation.",
-          "copyright": "Pool photo"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/11/27/world/00uk-begum01/00uk-begum01-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Shamima Begum left Britain when she was 15. Her lawyers said that she was smuggled into Syria for sexual exploitation.",
-          "copyright": "Pool photo"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2022/11/27/world/00uk-begum01/00uk-begum01-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Shamima Begum left Britain when she was 15. Her lawyers said that she was smuggled into Syria for sexual exploitation.",
-          "copyright": "Pool photo"
-        }
-      ],
-      "short_url": "https://nyti.ms/3XS9Y7u"
-    },
-    {
-      "section": "movies",
-      "subsection": "",
-      "title": "Movie Honors the African Soldiers France Tried to Forget",
-      "abstract": "The success of “Tirailleurs,” set in the mire and mayhem of World War I, has helped resurface the often neglected story of colonial soldiers forced to take up somebody else’s fight.",
-      "url": "https://www.nytimes.com/2023/02/22/movies/tirailleurs-african-troops-france-world-war-i.html",
-      "uri": "nyt://article/7ab792fe-cd05-513f-a86c-9f1d2945cc51",
-      "byline": "By Roger Cohen",
-      "item_type": "Article",
-      "updated_date": "2023-02-22T12:49:41-05:00",
-      "created_date": "2023-02-22T10:42:46-05:00",
-      "published_date": "2023-02-22T10:42:46-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Movies",
-        "World War I (1914-18)",
-        "World War II (1939-45)",
-        "Black People",
-        "Discrimination",
-        "Defense and Military Forces",
-        "Actors and Actresses",
-        "Tirailleurs (Movie)"
-      ],
-      "org_facet": [],
-      "per_facet": ["Vadepied, Mathieu", "Sy, Omar"],
-      "geo_facet": ["France", "Senegal", "Africa"],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22FRENCH-SOLDIERS-01-wvmg/22FRENCE-SOLDIERS-01-wvmg-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1365,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Omar Sy, top, and Alassane Diong in “Tirailleurs.” (The movie is called “Father and Soldier” in the United States.)",
-          "copyright": "Marie-Clémence David/Gaumont"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22FRENCH-SOLDIERS-01-wvmg/22FRENCE-SOLDIERS-01-wvmg-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Omar Sy, top, and Alassane Diong in “Tirailleurs.” (The movie is called “Father and Soldier” in the United States.)",
-          "copyright": "Marie-Clémence David/Gaumont"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22FRENCH-SOLDIERS-01-wvmg/22FRENCH-SOLDIERS-01-wvmg-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Omar Sy, top, and Alassane Diong in “Tirailleurs.” (The movie is called “Father and Soldier” in the United States.)",
-          "copyright": "Marie-Clémence David/Gaumont"
-        }
-      ],
-      "short_url": "https://nyti.ms/3m0dTlC"
-    },
-    {
-      "section": "world",
-      "subsection": "europe",
-      "title": "In Northern Ukraine, a Different Sort of War Game",
-      "abstract": "Russian forces are shelling border areas there to tie up thousands of Ukrainian troops that might otherwise defend against attacks farther south.",
-      "url": "https://www.nytimes.com/2023/02/21/world/europe/ukraine-russia-shelling-kharkiv.html",
-      "uri": "nyt://article/0495f8e5-2b33-5331-aa3d-0394d7778350",
-      "byline": "By Andrew E. Kramer and Maria Varenikova",
-      "item_type": "Article",
-      "updated_date": "2023-02-21T23:20:11-05:00",
-      "created_date": "2023-02-21T05:00:37-05:00",
-      "published_date": "2023-02-21T05:00:37-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": ["Russian Invasion of Ukraine (2022)"],
-      "org_facet": ["North Atlantic Treaty Organization"],
-      "per_facet": [],
-      "geo_facet": [
-        "Belgorod (Russia)",
-        "Kharkiv (Ukraine)",
-        "Ukraine",
-        "Zaporizhzhia (Ukraine)",
-        "Donbas (Ukraine)"
-      ],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/20/multimedia/20ukraine-slavhorod-01-fzlj/20ukraine-slavhorod-01-fzlj-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1463,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Ukrainian soldiers at a position near the border with Russia this month. Ukrainian officials say Russia is tying down their troops in the region to keep them from battlefields farther south.",
-          "copyright": "Emile Ducke for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/20/multimedia/20ukraine-slavhorod-01-fzlj/20ukraine-slavhorod-01-fzlj-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Ukrainian soldiers at a position near the border with Russia this month. Ukrainian officials say Russia is tying down their troops in the region to keep them from battlefields farther south.",
-          "copyright": "Emile Ducke for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/20/multimedia/20ukraine-slavhorod-01-fzlj/20ukraine-slavhorod-01-fzlj-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Ukrainian soldiers at a position near the border with Russia this month. Ukrainian officials say Russia is tying down their troops in the region to keep them from battlefields farther south.",
-          "copyright": "Emile Ducke for The New York Times"
-        }
-      ],
-      "short_url": "https://nyti.ms/41bEMD0"
-    },
-    {
-      "section": "world",
-      "subsection": "middleeast",
-      "title": "‘Equality of Injustice for All’: Saudi Arabia Expands Crackdown on Dissent",
-      "abstract": "The kingdom’s courts are meting out harsher punishments than ever to citizens who criticize the government, with prosecutions built on Twitter posts ending in prison sentences of 15 to 45 years.",
-      "url": "https://www.nytimes.com/2023/02/21/world/middleeast/saudi-arabia-dissent-crackdown.html",
-      "uri": "nyt://article/cb4c66ac-6291-5329-abd3-e824b54bc768",
-      "byline": "By Vivian Nereim",
-      "item_type": "Article",
-      "updated_date": "2023-02-22T08:29:46-05:00",
-      "created_date": "2023-02-21T05:00:33-05:00",
-      "published_date": "2023-02-21T05:00:33-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Politics and Government",
-        "Courts and the Judiciary",
-        "Political Prisoners",
-        "Freedom of Speech and Expression",
-        "Human Rights and Human Rights Violations",
-        "Censorship",
-        "Social Media"
-      ],
-      "org_facet": ["Twitter"],
-      "per_facet": ["Mohammed bin Salman (1985- )"],
-      "geo_facet": ["Saudi Arabia"],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/19/multimedia/19saudi-dissent-1-vkhb/19saudi-dissent-1-vkhb-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1366,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Ibrahim Almadi’s father, Saad, was jailed for 19 years.",
-          "copyright": "Jason Andrew for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/19/multimedia/19saudi-dissent-1-vkhb/19saudi-dissent-1-vkhb-threeByTwoSmallAt2X-v2.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Ibrahim Almadi’s father, Saad, was jailed for 19 years.",
-          "copyright": "Jason Andrew for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/19/multimedia/19saudi-dissent-1-vkhb/19saudi-dissent-1-vkhb-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Ibrahim Almadi’s father, Saad, was jailed for 19 years.",
-          "copyright": "Jason Andrew for The New York Times"
-        }
-      ],
-      "short_url": "https://nyti.ms/3KxcxJ0"
-    },
-    {
-      "section": "world",
-      "subsection": "asia",
-      "title": "Victim or Criminal? A U.S. Navy Officer’s Imprisonment in Japan.",
-      "abstract": "Lt. Ridge Alkonis was sentenced to three years after causing a deadly traffic accident in 2021. The case has irritated U.S. relations with a crucial military ally.",
-      "url": "https://www.nytimes.com/2023/02/21/world/asia/ridge-alkonis-navy-japan-crash.html",
-      "uri": "nyt://article/d8383e55-88f1-52b6-adf4-348f4ce8360f",
-      "byline": "By Mike Ives and Hisako Ueno",
-      "item_type": "Article",
-      "updated_date": "2023-02-22T09:19:57-05:00",
-      "created_date": "2023-02-21T04:14:11-05:00",
-      "published_date": "2023-02-21T04:14:11-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Traffic Accidents and Safety",
-        "Deaths (Fatalities)",
-        "United States Defense and Military Forces",
-        "Status of Forces Agreements"
-      ],
-      "org_facet": ["United States Navy"],
-      "per_facet": ["Alkonis, Ridge"],
-      "geo_facet": ["Japan"],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/17/multimedia/00xp-japan-crash-01-fwlv/00xp-japan-crash-01-fwlv-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1365,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Lt. Ridge Alkonis, left, in an undated photo. A Japanese court found he had been negligent by falling into a “state of drowsiness” before a fatal traffic accident.",
-          "copyright": "The Alkonis family"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/17/multimedia/00xp-japan-crash-01-fwlv/00xp-japan-crash-01-fwlv-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Lt. Ridge Alkonis, left, in an undated photo. A Japanese court found he had been negligent by falling into a “state of drowsiness” before a fatal traffic accident.",
-          "copyright": "The Alkonis family"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/17/multimedia/00xp-japan-crash-01-fwlv/00xp-japan-crash-01-fwlv-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Lt. Ridge Alkonis, left, in an undated photo. A Japanese court found he had been negligent by falling into a “state of drowsiness” before a fatal traffic accident.",
-          "copyright": "The Alkonis family"
-        }
-      ],
-      "short_url": "https://nyti.ms/3IGNTo6"
-    },
-    {
-      "section": "world",
-      "subsection": "middleeast",
-      "title": "Remembering the Lives Saved Drives Rescuers in Turkey to Push On",
-      "abstract": "In the third week of a grueling effort, emergency workers battle exhaustion as the hope of finding more earthquake survivors dwindles. A powerful new quake has complicated their task.",
-      "url": "https://www.nytimes.com/2023/02/21/world/middleeast/turkey-syria-earthquake-rescues.html",
-      "uri": "nyt://article/e8ad86c8-96f7-5918-b2c7-5b503d23e662",
-      "byline": "By Raja Abdulrahim",
-      "item_type": "Article",
-      "updated_date": "2023-02-22T08:53:22-05:00",
-      "created_date": "2023-02-21T08:39:08-05:00",
-      "published_date": "2023-02-21T08:39:08-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Turkey Earthquake (Feb 6, 2023)",
-        "Rescues",
-        "Volunteers and Community Service",
-        "Deaths (Fatalities)"
-      ],
-      "org_facet": [],
-      "per_facet": [],
-      "geo_facet": ["Antakya (Turkey)", "Syria", "Turkey"],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/world/21Quake-Rescuers/21Quake-Rescuers-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1536,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Soldiers, volunteers and rescue workers at the scene of a collapsed building in Antakya, Turkey, on Monday.",
-          "copyright": "Emin Ozmen for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/world/21Quake-Rescuers/21Quake-Rescuers-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Soldiers, volunteers and rescue workers at the scene of a collapsed building in Antakya, Turkey, on Monday.",
-          "copyright": "Emin Ozmen for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/world/21Quake-Rescuers/21Quake-Rescuers-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Soldiers, volunteers and rescue workers at the scene of a collapsed building in Antakya, Turkey, on Monday.",
-          "copyright": "Emin Ozmen for The New York Times"
-        }
-      ],
-      "short_url": "https://nyti.ms/3IkmrLA"
-    },
-    {
-      "section": "world",
-      "subsection": "americas",
-      "title": "Israel Unlikely to Extradite Mexican Ex-Lawman Wanted in Mass Abduction, Officials Say",
-      "abstract": "The Mexican authorities say Tomás Zerón tortured witnesses and tampered with evidence in a crucial investigation into the 2014 disappearance of 43 students.",
-      "url": "https://www.nytimes.com/2023/02/21/world/americas/israel-mexico-extradition-tomas-zeron.html",
-      "uri": "nyt://article/bdb5daeb-cf13-5b7b-a1aa-c51c16fc9233",
-      "byline": "By Ronen Bergman and Natalie Kitroeff",
-      "item_type": "Article",
-      "updated_date": "2023-02-21T23:22:49-05:00",
-      "created_date": "2023-02-21T14:12:09-05:00",
-      "published_date": "2023-02-21T14:12:09-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": ["Extradition"],
-      "org_facet": [],
-      "per_facet": ["Lopez Obrador, Andres Manuel", "Zeron de Lucio, Tomas"],
-      "geo_facet": ["Israel", "Tel Aviv (Israel)", "Mexico"],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/20/multimedia/20mexico-extradition-gpmc/20mexico-extradition-gpmc-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1367,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Tomás Zerón, then the director of Mexico’s Criminal Investigation Agency, in 2015.",
-          "copyright": "Yuri Cortez/Agence France-Presse — Getty Images"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/20/multimedia/20mexico-extradition-gpmc/20mexico-extradition-gpmc-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Tomás Zerón, then the director of Mexico’s Criminal Investigation Agency, in 2015.",
-          "copyright": "Yuri Cortez/Agence France-Presse — Getty Images"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/20/multimedia/20mexico-extradition-gpmc/20mexico-extradition-gpmc-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Tomás Zerón, then the director of Mexico’s Criminal Investigation Agency, in 2015.",
-          "copyright": "Yuri Cortez/Agence France-Presse — Getty Images"
-        }
-      ],
-      "short_url": "https://nyti.ms/3ZaujGh"
-    },
-    {
-      "section": "world",
-      "subsection": "asia",
-      "title": "Are North Korea’s Nuclear Weapons Tests as Safe as the Country Claims?",
-      "abstract": "The country has conducted six underground nuclear tests, and a seventh may be on the way. Rights groups fear their environmental and health consequences.",
-      "url": "https://www.nytimes.com/2023/02/21/world/asia/north-korea-nuclear-weapons-tests.html",
-      "uri": "nyt://article/2dfe92b5-8199-5670-a8e7-220f834efef3",
-      "byline": "By Choe Sang-Hun",
-      "item_type": "Article",
-      "updated_date": "2023-02-21T23:22:59-05:00",
-      "created_date": "2023-02-21T03:44:13-05:00",
-      "published_date": "2023-02-21T03:44:13-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Nuclear Tests",
-        "Nuclear Weapons",
-        "International Relations",
-        "Radiation",
-        "Defectors (Political)",
-        "Defense and Military Forces"
-      ],
-      "org_facet": ["Transitional Justice Working Group"],
-      "per_facet": ["Kim Jong-un", "Kim Yo-jong"],
-      "geo_facet": ["North Korea", "South Korea", "China", "Japan"],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21nkorea-fwmj/21nkorea-fwmj-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1366,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "A satellite image of the Punggye-ri nuclear test site in Kilju, a county in North Korea, in March 2022.",
-          "copyright": "Maxar Technologies, via Reuters"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21nkorea-fwmj/21nkorea-fwmj-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "A satellite image of the Punggye-ri nuclear test site in Kilju, a county in North Korea, in March 2022.",
-          "copyright": "Maxar Technologies, via Reuters"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21nkorea-fwmj/21nkorea-fwmj-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "A satellite image of the Punggye-ri nuclear test site in Kilju, a county in North Korea, in March 2022.",
-          "copyright": "Maxar Technologies, via Reuters"
-        }
-      ],
-      "short_url": "https://nyti.ms/3lUbqJv"
+      "short_url": "https://nyti.ms/44sPia7"
     },
     {
       "section": "nyregion",
       "subsection": "",
-      "title": "Mexico’s Ex-Top Security Official Is Convicted of Cartel Bribery",
-      "abstract": "A Brooklyn jury found Genaro García Luna guilty of taking millions of dollars from the Sinaloa drug cartel when he was in charge of Mexico’s bloody war on organized crime.",
-      "url": "https://www.nytimes.com/2023/02/21/nyregion/genaro-garcia-luna-guilty.html",
-      "uri": "nyt://article/f3e65f56-6fd9-5f6d-a169-f9e3f4d579b4",
-      "byline": "By Alan Feuer and Nate Schweber",
+      "title": "2 Arrested After a Fatal Stabbing and 3 Slashings on the Subway",
+      "abstract": "The police added 80 officers to the subway system after a man was fatally stabbed and three women were slashed in the legs in separate attacks over the weekend.",
+      "url": "https://www.nytimes.com/2023/06/20/nyregion/nyc-subway-attacks-arrests.html",
+      "uri": "nyt://article/cec0beea-f419-59cd-8d97-753d2817bca9",
+      "byline": "By Maria Cramer and Erin Nolan",
       "item_type": "Article",
-      "updated_date": "2023-02-22T12:17:43-05:00",
-      "created_date": "2023-02-21T15:06:07-05:00",
-      "published_date": "2023-02-21T15:06:07-05:00",
+      "updated_date": "2023-06-20T17:59:09-04:00",
+      "created_date": "2023-06-20T17:59:09-04:00",
+      "published_date": "2023-06-20T17:59:09-04:00",
       "material_type_facet": "",
       "kicker": "",
       "des_facet": [
-        "Decisions and Verdicts",
-        "Drug Abuse and Traffic",
-        "Bribery and Kickbacks",
-        "Drug Cartels",
-        "Corruption (Institutional)"
-      ],
-      "org_facet": ["Sinaloa Cartel"],
-      "per_facet": [
-        "Barragan, Villarreal",
-        "Garcia Luna, Genaro",
-        "Zambada Garcia, Ismael",
-        "Zambada Garcia, Jesus"
-      ],
-      "geo_facet": ["Mexico"],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/17/multimedia/hfo00mexico-corruption-trial-convict-qfkp/hfo00mexico-corruption-trial-convict-qfkp-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1526,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Genaro García Luna in 2004, when he headed Mexico’s version of the F.B.I.",
-          "copyright": "Jorge Nunez/European Pressphoto Agency"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/17/multimedia/hfo00mexico-corruption-trial-convict-qfkp/hfo00mexico-corruption-trial-convict-qfkp-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Genaro García Luna in 2004, when he headed Mexico’s version of the F.B.I.",
-          "copyright": "Jorge Nunez/European Pressphoto Agency"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/17/multimedia/hfo00mexico-corruption-trial-convict-qfkp/hfo00mexico-corruption-trial-convict-qfkp-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Genaro García Luna in 2004, when he headed Mexico’s version of the F.B.I.",
-          "copyright": "Jorge Nunez/European Pressphoto Agency"
-        }
-      ],
-      "short_url": "https://nyti.ms/3EuRN0K"
-    },
-    {
-      "section": "world",
-      "subsection": "africa",
-      "title": "Nigerian Election 2023: What to Know, What Polling Shows",
-      "abstract": "The presidential election this week in Africa’s most populous country is completely unpredictable. An unexpected third candidate with a huge youth following may upend decades of traditional politics.",
-      "url": "https://www.nytimes.com/article/nigeria-election.html",
-      "uri": "nyt://article/07ee4ef2-fb53-5c35-a1b5-9b3942937aef",
-      "byline": "By Ruth Maclean",
-      "item_type": "Article",
-      "updated_date": "2023-02-22T08:27:59-05:00",
-      "created_date": "2023-02-14T09:04:34-05:00",
-      "published_date": "2023-02-14T09:04:34-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Elections",
-        "Politics and Government",
-        "Economic Conditions and Trends",
-        "Muslims and Islam"
-      ],
-      "org_facet": [],
-      "per_facet": [
-        "Buhari, Muhammadu",
-        "Abubakar, Atiku",
-        "Obi, Peter (1961- )",
-        "Tinubu, Bola Ahmed",
-        "Kwankwaso, Rabiu"
-      ],
-      "geo_facet": ["Nigeria"],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/12/multimedia/00nigeria-promo-vthm/00nigeria-promo-vthm-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1352,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Candidates in the race to become Nigeria’s next president, from left: Bola Ahmed Tinubu, Atiku Abubakar, Peter Obi, Rabiu Kwankwaso.",
-          "copyright": "AFP; AFP; AFP; AP"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/12/multimedia/00nigeria-promo-vthm/00nigeria-promo-vthm-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Candidates in the race to become Nigeria’s next president, from left: Bola Ahmed Tinubu, Atiku Abubakar, Peter Obi, Rabiu Kwankwaso.",
-          "copyright": "AFP; AFP; AFP; AP"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/12/multimedia/00nigeria-promo-vthm/00nigeria-promo-vthm-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Candidates in the race to become Nigeria’s next president, from left: Bola Ahmed Tinubu, Atiku Abubakar, Peter Obi, Rabiu Kwankwaso.",
-          "copyright": "AFP; AFP; AFP; AP"
-        }
-      ],
-      "short_url": "https://nyti.ms/3lBX7ZX"
-    },
-    {
-      "section": "world",
-      "subsection": "americas",
-      "title": "Counting votes and cutting violence",
-      "abstract": "A new study found that the type of party that won election in Brazil seemed to have a correlation with violence immediately after the vote.",
-      "url": "https://www.nytimes.com/2023/02/22/world/americas/counting-votes-and-cutting-violence.html",
-      "uri": "nyt://article/3d84abdf-1f89-5a39-bf8a-b3aa14990de1",
-      "byline": "By Amanda Taub",
-      "item_type": "Article",
-      "updated_date": "2023-02-22T13:09:53-05:00",
-      "created_date": "2023-02-22T12:52:14-05:00",
-      "published_date": "2023-02-22T12:52:14-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Voter Fraud (Election Fraud)",
-        "Elections",
-        "Politics and Government"
-      ],
-      "org_facet": ["Workers' Party (Brazil)"],
-      "per_facet": [],
-      "geo_facet": ["Brazil"],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/InterpreterNL-Brazil-kzvl/InterpreterNL-Brazil-kzvl-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1366,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Shattered glass at Brazil’s Supreme Court after supporters of former President Jair Bolsonaro rioted in Brasília in January.",
-          "copyright": "Victor Moriyama for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/InterpreterNL-Brazil-kzvl/InterpreterNL-Brazil-kzvl-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Shattered glass at Brazil’s Supreme Court after supporters of former President Jair Bolsonaro rioted in Brasília in January.",
-          "copyright": "Victor Moriyama for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/InterpreterNL-Brazil-kzvl/InterpreterNL-Brazil-kzvl-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Shattered glass at Brazil’s Supreme Court after supporters of former President Jair Bolsonaro rioted in Brasília in January.",
-          "copyright": "Victor Moriyama for The New York Times"
-        }
-      ],
-      "short_url": "https://nyti.ms/3Kro9xr"
-    },
-    {
-      "section": "world",
-      "subsection": "europe",
-      "title": "Ukraine prepares itself for the possibility of Russian aggression via Moldova and Belarus.",
-      "abstract": "Military analysts doubt Russia’s ability to sustain a new front, but Ukrainian and Western officials have warned that Moscow could try to divert Ukrainian resources.",
-      "url": "https://www.nytimes.com/2023/02/22/world/europe/russia-moldova-ukraine.html",
-      "uri": "nyt://article/3dbdb872-ac2f-57cc-ab02-c9c4ca541a07",
-      "byline": "By Marc Santora",
-      "item_type": "Article",
-      "updated_date": "2023-02-22T14:05:43-05:00",
-      "created_date": "2023-02-22T12:50:45-05:00",
-      "published_date": "2023-02-22T12:50:45-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": ["Russian Invasion of Ukraine (2022)"],
-      "org_facet": [],
-      "per_facet": [],
-      "geo_facet": ["Ukraine", "Belarus", "Moldova", "Russia"],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22ukraine-blog-high-alert-topart-tbpw/22ukraine-blog-high-alert-topart-tbpw-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1366,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Ukrainian soldiers looked out from trenches in northern Ukraine, only a few miles away from the Belarusian border, last month.",
-          "copyright": "Lynsey Addario for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22ukraine-blog-high-alert-topart-tbpw/22ukraine-blog-high-alert-topart-tbpw-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Ukrainian soldiers looked out from trenches in northern Ukraine, only a few miles away from the Belarusian border, last month.",
-          "copyright": "Lynsey Addario for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22ukraine-blog-high-alert-topart-tbpw/22ukraine-blog-high-alert-topart-tbpw-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Ukrainian soldiers looked out from trenches in northern Ukraine, only a few miles away from the Belarusian border, last month.",
-          "copyright": "Lynsey Addario for The New York Times"
-        }
-      ],
-      "short_url": "https://nyti.ms/3Eqvbi7"
-    },
-    {
-      "section": "travel",
-      "subsection": "",
-      "title": "Joshua Bell’s London",
-      "abstract": "The celebrated violinist recommends five spots in Britain’s capital, a city he’s visited some 70 times since the 1980s.",
-      "url": "https://www.nytimes.com/2023/02/22/travel/london-joshua-bell-recommendations.html",
-      "uri": "nyt://article/65888fba-e7cc-5f8c-9269-265a67eb80df",
-      "byline": "By Danielle Pergament and Mary Turner",
-      "item_type": "Article",
-      "updated_date": "2023-02-22T13:43:57-05:00",
-      "created_date": "2023-02-22T05:00:47-05:00",
-      "published_date": "2023-02-22T05:00:47-05:00",
-      "material_type_facet": "",
-      "kicker": "5 Favorite Places",
-      "des_facet": [
-        "Classical Music",
-        "Food",
-        "Travel and Vacations",
-        "Proms",
-        "Violins and Violas"
-      ],
-      "org_facet": ["Wigmore Hall (London, England, Music Venue)"],
-      "per_facet": [],
-      "geo_facet": ["London (England)"],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/03/multimedia/travel-london-joshua-bell-02/travel-london-joshua-bell-02-vkqp-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1363,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Dusk falls over London’s Royal Albert Hall, where Joshua Bell has performed at the famous Proms concerts. ",
-          "copyright": ""
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/03/multimedia/travel-london-joshua-bell-02/travel-london-joshua-bell-02-vkqp-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Dusk falls over London’s Royal Albert Hall, where Joshua Bell has performed at the famous Proms concerts. ",
-          "copyright": ""
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/03/multimedia/travel-london-joshua-bell-02/travel-london-joshua-bell-02-vkqp-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Dusk falls over London’s Royal Albert Hall, where Joshua Bell has performed at the famous Proms concerts. ",
-          "copyright": ""
-        }
-      ],
-      "short_url": "https://nyti.ms/3In35Wf"
-    },
-    {
-      "section": "us",
-      "subsection": "politics",
-      "title": "China’s Economic Support for Russia Could Elicit More Sanctions",
-      "abstract": "U.S. officials pledged to crack down on shipments to Russia that can be used for both civilian and military purposes, but that has proved hard to police.",
-      "url": "https://www.nytimes.com/2023/02/22/us/politics/china-russia-sanctions.html",
-      "uri": "nyt://article/84a19631-017e-5f23-b6d6-a679efd99c86",
-      "byline": "By Ana Swanson",
-      "item_type": "Article",
-      "updated_date": "2023-02-22T11:22:18-05:00",
-      "created_date": "2023-02-22T05:00:45-05:00",
-      "published_date": "2023-02-22T05:00:45-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "United States International Relations",
-        "International Relations",
-        "Russian Invasion of Ukraine (2022)",
-        "Defense and Military Forces",
-        "United States Politics and Government",
-        "Embargoes and Sanctions",
-        "International Trade and World Market",
-        "Computer Chips"
-      ],
-      "org_facet": ["State Department", "Treasury Department"],
-      "per_facet": [
-        "Adeyemo, Adewale",
-        "Biden, Joseph R Jr",
-        "Blinken, Antony J"
-      ],
-      "geo_facet": ["China", "Russia", "Ukraine"],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22dc-us-china-01-kplq/22dc-us-china-01-kplq-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1365,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "President Biden with Ukraine’s president, Volodymyr Zelensky, in Kyiv. Mr. Biden said the United States and its partners would announce new measures targeting sanctions evasion this week.",
-          "copyright": "Daniel Berehulak/The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22dc-us-china-01-kplq/22dc-us-china-01-kplq-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "President Biden with Ukraine’s president, Volodymyr Zelensky, in Kyiv. Mr. Biden said the United States and its partners would announce new measures targeting sanctions evasion this week.",
-          "copyright": "Daniel Berehulak/The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22dc-us-china-01-kplq/22dc-us-china-01-kplq-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "President Biden with Ukraine’s president, Volodymyr Zelensky, in Kyiv. Mr. Biden said the United States and its partners would announce new measures targeting sanctions evasion this week.",
-          "copyright": "Daniel Berehulak/The New York Times"
-        }
-      ],
-      "short_url": "https://nyti.ms/3IkuFmN"
-    },
-    {
-      "section": "technology",
-      "subsection": "",
-      "title": "Inside Taiwanese Chip Giant, a U.S. Expansion Stokes Tensions",
-      "abstract": "Employee doubts are rising about Taiwan Semiconductor Manufacturing Company’s $40 billion investment in an Arizona factory.",
-      "url": "https://www.nytimes.com/2023/02/22/technology/tsmc-arizona-factory-tensions.html",
-      "uri": "nyt://article/b5f0fcfb-eeaa-5761-9f09-3c563ef395a7",
-      "byline": "By John Liu and Paul Mozur",
-      "item_type": "Article",
-      "updated_date": "2023-02-22T09:19:32-05:00",
-      "created_date": "2023-02-22T05:00:31-05:00",
-      "published_date": "2023-02-22T05:00:31-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Factories and Manufacturing",
-        "Computer Chips",
-        "International Relations",
-        "Labor and Jobs",
-        "Workplace Environment",
-        "United States International Relations",
-        "Engineering and Engineers"
+        "Murders, Attempted Murders and Homicides",
+        "Assaults",
+        "Transit Systems",
+        "Subways",
+        "Crime and Criminals"
       ],
       "org_facet": [
-        "Taiwan Semiconductor Manufacturing Company Ltd",
-        "WaferTech"
+        "Police Department (NYC)",
+        "Metropolitan Transportation Authority"
       ],
       "per_facet": [],
-      "geo_facet": [
-        "Arizona",
-        "China",
-        "Phoenix (Ariz)",
-        "Taiwan",
-        "United States"
-      ],
+      "geo_facet": ["New York City"],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22tsmc-01-wgpz/22tsmc-01-wgpz-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1365,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Taiwan Semiconductor Manufacturing Company is upgrading and expanding a factory it is building in Phoenix, a vital project for U.S. tech strategy.",
-          "copyright": "Adriana Zehbrauskas for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22tsmc-01-wgpz/22tsmc-01-wgpz-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Taiwan Semiconductor Manufacturing Company is upgrading and expanding a factory it is building in Phoenix, a vital project for U.S. tech strategy.",
-          "copyright": "Adriana Zehbrauskas for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22tsmc-01-wgpz/22tsmc-01-wgpz-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Taiwan Semiconductor Manufacturing Company is upgrading and expanding a factory it is building in Phoenix, a vital project for U.S. tech strategy.",
-          "copyright": "Adriana Zehbrauskas for The New York Times"
-        }
-      ],
-      "short_url": "https://nyti.ms/3m0lKzm"
-    },
-    {
-      "section": "world",
-      "subsection": "europe",
-      "title": "Biden’s Meeting With Eastern European Leaders Will Cap His Trip",
-      "abstract": "The nine countries along NATO’s eastern flank are the likeliest targets of another Russian invasion.",
-      "url": "https://www.nytimes.com/2023/02/22/world/europe/biden-nato-ukraine-poland.html",
-      "uri": "nyt://article/b04c132c-8ba6-5272-a287-d437adeb7489",
-      "byline": "By Michael D. Shear",
-      "item_type": "Article",
-      "updated_date": "2023-02-22T02:58:24-05:00",
-      "created_date": "2023-02-22T02:11:49-05:00",
-      "published_date": "2023-02-22T02:11:49-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "United States International Relations",
-        "Russian Invasion of Ukraine (2022)",
-        "Defense and Military Forces"
-      ],
-      "org_facet": ["North Atlantic Treaty Organization"],
-      "per_facet": ["Biden, Joseph R Jr"],
-      "geo_facet": [
-        "Poland",
-        "Bulgaria",
-        "Czech Republic",
-        "Estonia",
-        "Hungary",
-        "Latvia",
-        "Lithuania",
-        "Romania",
-        "Slovakia"
-      ],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22ukraine-blog-biden-B9-01-ztcb/22ukraine-blog-biden-B9-01-ztcb-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1365,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "President Biden during a bilateral meeting on Tuesday, with President Andrzej Duda of Poland, at the Presidential Palace in Warsaw, Poland, on Tuesday.",
-          "copyright": "Doug Mills/The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22ukraine-blog-biden-B9-01-ztcb/22ukraine-blog-biden-B9-01-ztcb-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "President Biden during a bilateral meeting on Tuesday, with President Andrzej Duda of Poland, at the Presidential Palace in Warsaw, Poland, on Tuesday.",
-          "copyright": "Doug Mills/The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22ukraine-blog-biden-B9-01-ztcb/22ukraine-blog-biden-B9-01-ztcb-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "President Biden during a bilateral meeting on Tuesday, with President Andrzej Duda of Poland, at the Presidential Palace in Warsaw, Poland, on Tuesday.",
-          "copyright": "Doug Mills/The New York Times"
-        }
-      ],
-      "short_url": "https://nyti.ms/3kgZFw0"
-    },
-    {
-      "section": "briefing",
-      "subsection": "",
-      "title": "Your Wednesday Briefing",
-      "abstract": "Addresses by President Biden and Vladimir Putin.",
-      "url": "https://www.nytimes.com/2023/02/22/briefing/biden-putin-turkey-poland.html",
-      "uri": "nyt://article/947e06f3-085d-5bcb-a822-fe6e51eba47b",
-      "byline": "By Natasha Frost",
-      "item_type": "Article",
-      "updated_date": "2023-02-22T09:22:49-05:00",
-      "created_date": "2023-02-22T00:21:05-05:00",
-      "published_date": "2023-02-22T00:21:05-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [],
-      "org_facet": [],
-      "per_facet": [],
-      "geo_facet": [],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22ambriefing-europe-nl-promo-feb/22themorning-biden-glfm-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 2048,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "U.S. President Joe Biden in Warsaw, Poland on Tuesday.",
-          "copyright": "Doug Mills/The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22ambriefing-europe-nl-promo-feb/22themorning-biden-glfm-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "U.S. President Joe Biden in Warsaw, Poland on Tuesday.",
-          "copyright": "Doug Mills/The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/22ambriefing-europe-nl-promo-feb/22themorning-biden-glfm-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "U.S. President Joe Biden in Warsaw, Poland on Tuesday.",
-          "copyright": "Doug Mills/The New York Times"
-        }
-      ],
-      "short_url": "https://nyti.ms/3ExsV8H"
-    },
-    {
-      "section": "climate",
-      "subsection": "",
-      "title": "How Widespread Are These Toxic Chemicals? They’re Everywhere.",
-      "abstract": "Researchers created a map showing where PFAS compounds, linked to cancer in humans, have been detected in wildlife. It spans the globe.",
-      "url": "https://www.nytimes.com/2023/02/22/climate/pfas-forever-chemicals-wildlife-animals.html",
-      "uri": "nyt://article/5239b3cb-0071-5220-91f1-a6286228c085",
-      "byline": "By Catrin Einhorn",
-      "item_type": "Article",
-      "updated_date": "2023-02-22T13:01:07-05:00",
-      "created_date": "2023-02-22T00:01:07-05:00",
-      "published_date": "2023-02-22T00:01:07-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "PFAS (Per- and Polyfluoroalkyl Substances)",
-        "Animals",
-        "Research",
-        "Biodiversity",
-        "Hazardous and Toxic Substances",
-        "Endangered and Extinct Species"
-      ],
-      "org_facet": ["Environmental Working Group"],
-      "per_facet": [],
-      "geo_facet": [],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/science/22cli-foreverchemicals/22cli-foreverchemicals-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1365,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "A warning to hunters in Oscoda, Mich.",
-          "copyright": "Drew YoungeDyke/National Wildlife Federation, via Associated Press"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/science/22cli-foreverchemicals/22cli-foreverchemicals-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "A warning to hunters in Oscoda, Mich.",
-          "copyright": "Drew YoungeDyke/National Wildlife Federation, via Associated Press"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/science/22cli-foreverchemicals/22cli-foreverchemicals-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "A warning to hunters in Oscoda, Mich.",
-          "copyright": "Drew YoungeDyke/National Wildlife Federation, via Associated Press"
-        }
-      ],
-      "short_url": "https://nyti.ms/3EwnXJw"
-    },
-    {
-      "section": "world",
-      "subsection": "europe",
-      "title": "Biden Accuses Putin of Atrocities and Urges World to Rebuke Him",
-      "abstract": "In sharply opposed speeches, President Biden said Vladimir V. Putin bore sole responsibility for the war, while Mr. Putin said Russia had invaded in self-defense. But they agreed the war would not end soon.",
-      "url": "https://www.nytimes.com/2023/02/21/world/europe/biden-putin-russia-ukraine.html",
-      "uri": "nyt://article/33c89d01-4c07-5d7c-b6f5-13038e8e1866",
-      "byline": "By David E. Sanger, Michael D. Shear and Anton Troianovski",
-      "item_type": "Article",
-      "updated_date": "2023-02-22T08:00:51-05:00",
-      "created_date": "2023-02-21T19:18:40-05:00",
-      "published_date": "2023-02-21T19:18:40-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Russian Invasion of Ukraine (2022)",
-        "United States International Relations",
-        "Speeches and Statements",
-        "War Crimes, Genocide and Crimes Against Humanity",
-        "Nuclear Weapons",
-        "Defense and Military Forces",
-        "Strategic Arms Reduction Treaty"
-      ],
-      "org_facet": [],
-      "per_facet": ["Biden, Joseph R Jr", "Putin, Vladimir V"],
-      "geo_facet": ["Russia", "Ukraine"],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21-ukraine-LEDEALL-qvbg/21-ukraine-LEDEALL-qvbg-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1365,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "President Biden speaking at the Royal Castle Gardens in Warsaw on Tuesday.",
-          "copyright": "Doug Mills/The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21-ukraine-LEDEALL-qvbg/21-ukraine-LEDEALL-qvbg-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "President Biden speaking at the Royal Castle Gardens in Warsaw on Tuesday.",
-          "copyright": "Doug Mills/The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21-ukraine-LEDEALL-qvbg/21-ukraine-LEDEALL-qvbg-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "President Biden speaking at the Royal Castle Gardens in Warsaw on Tuesday.",
-          "copyright": "Doug Mills/The New York Times"
-        }
-      ],
-      "short_url": "https://nyti.ms/3SsG1Kb"
-    },
-    {
-      "section": "world",
-      "subsection": "europe",
-      "title": "In Kyiv, Italy’s prime minister condemns Russia and pledges further support to Ukraine.",
-      "abstract": "The prime minister, Giorgia Meloni, reiterated her backing amid dissension within her coalition government on the issue.",
-      "url": "https://www.nytimes.com/2023/02/21/world/europe/giorgia-meloni-ukraine-kyiv-russia.html",
-      "uri": "nyt://article/fc4a44f4-2a43-58d4-917c-60eddea4525a",
-      "byline": "By Elisabetta Povoledo",
-      "item_type": "Article",
-      "updated_date": "2023-02-22T01:10:21-05:00",
-      "created_date": "2023-02-21T17:57:23-05:00",
-      "published_date": "2023-02-21T17:57:23-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": ["Russian Invasion of Ukraine (2022)"],
-      "org_facet": [],
-      "per_facet": [
-        "Berlusconi, Silvio",
-        "Meloni, Giorgia (1977- )",
-        "Putin, Vladimir V",
-        "Zelensky, Volodymyr",
-        "Salvini, Matteo"
-      ],
-      "geo_facet": [
-        "Italy",
-        "Kyiv (Ukraine)",
-        "Ukraine",
-        "Russia",
-        "Irpin (Ukraine)"
-      ],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21ukraine-blog-meloni-kyiv02-qvwf/21ukraine-blog-meloni-kyiv02-qvwf-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1399,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Prime Minister Giorgia Meloni of Italy at a joint news briefing with President Volodymyr Zelensky of Ukraine on Tuesday in Kyiv.",
-          "copyright": "Gleb Garanich/Reuters"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21ukraine-blog-meloni-kyiv02-qvwf/21ukraine-blog-meloni-kyiv02-qvwf-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Prime Minister Giorgia Meloni of Italy at a joint news briefing with President Volodymyr Zelensky of Ukraine on Tuesday in Kyiv.",
-          "copyright": "Gleb Garanich/Reuters"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21ukraine-blog-meloni-kyiv02-qvwf/21ukraine-blog-meloni-kyiv02-qvwf-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Prime Minister Giorgia Meloni of Italy at a joint news briefing with President Volodymyr Zelensky of Ukraine on Tuesday in Kyiv.",
-          "copyright": "Gleb Garanich/Reuters"
-        }
-      ],
-      "short_url": "https://nyti.ms/3Z8PWGU"
-    },
-    {
-      "section": "briefing",
-      "subsection": "",
-      "title": "Your Wednesday Briefing: Biden and Putin Speak on Ukraine",
-      "abstract": "Also, Saudi Arabia intensifies a crackdown and the Philippines moves closer to the U.S.",
-      "url": "https://www.nytimes.com/2023/02/21/briefing/biden-putin-speeches-ukraine.html",
-      "uri": "nyt://article/6edc655f-e083-5569-9fa8-fcdc6d691d4b",
-      "byline": "By Amelia Nierenberg",
-      "item_type": "Article",
-      "updated_date": "2023-02-22T04:12:32-05:00",
-      "created_date": "2023-02-21T15:46:28-05:00",
-      "published_date": "2023-02-21T15:46:28-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": ["Russian Invasion of Ukraine (2022)"],
-      "org_facet": [],
-      "per_facet": [
-        "Putin, Vladimir V",
-        "Biden, Joseph R Jr",
-        "Marcos, Ferdinand Jr"
-      ],
-      "geo_facet": ["Russia", "Ukraine", "Philippines", "Saudi Arabia"],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/022223ambriefing-asia-promo/22ambriefing-asia-biden1-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1639,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "President Biden delivered remarks on Tuesday at the Royal Castle in Warsaw ahead of the anniversary of Russia’s invasion of Ukraine.",
-          "copyright": "Doug Mills/The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/022223ambriefing-asia-promo/22ambriefing-asia-biden1-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "President Biden delivered remarks on Tuesday at the Royal Castle in Warsaw ahead of the anniversary of Russia’s invasion of Ukraine.",
-          "copyright": "Doug Mills/The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/22/multimedia/022223ambriefing-asia-promo/22ambriefing-asia-biden1-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "President Biden delivered remarks on Tuesday at the Royal Castle in Warsaw ahead of the anniversary of Russia’s invasion of Ukraine.",
-          "copyright": "Doug Mills/The New York Times"
-        }
-      ],
-      "short_url": "https://nyti.ms/3EpkoVu"
-    },
-    {
-      "section": "us",
-      "subsection": "politics",
-      "title": "Judge Rejects Bid by Sept. 11 Families to Seize Frozen Afghan Central Bank Funds",
-      "abstract": "A lawyer for the lead group of victim relatives who had sought $3.5 billion in frozen assets said they would appeal.",
-      "url": "https://www.nytimes.com/2023/02/21/us/politics/judge-sept-11-afghan-central-bank.html",
-      "uri": "nyt://article/1ac13025-a482-50a8-a731-90d0dcd9163f",
-      "byline": "By Charlie Savage",
-      "item_type": "Article",
-      "updated_date": "2023-02-21T23:22:16-05:00",
-      "created_date": "2023-02-21T15:39:29-05:00",
-      "published_date": "2023-02-21T15:39:29-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Terrorism",
-        "Decisions and Verdicts",
-        "September 11 (2001)",
-        "Compensation for Damages (Law)",
-        "United States Politics and Government"
-      ],
-      "org_facet": ["Taliban", "Federal Reserve Bank of New York"],
-      "per_facet": ["Daniels, George B"],
-      "geo_facet": ["Afghanistan"],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21dc-afghan-vkgc/21dc-afghan-vkgc-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1365,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "The September 11 Memorial in New York City.",
-          "copyright": "Todd Heisler/The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21dc-afghan-vkgc/21dc-afghan-vkgc-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "The September 11 Memorial in New York City.",
-          "copyright": "Todd Heisler/The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21dc-afghan-vkgc/21dc-afghan-vkgc-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "The September 11 Memorial in New York City.",
-          "copyright": "Todd Heisler/The New York Times"
-        }
-      ],
-      "short_url": "https://nyti.ms/3IfV5pQ"
-    },
-    {
-      "section": "health",
-      "subsection": "",
-      "title": "Mpox Often Leads to Severe Illness, Even Death, in People With Advanced H.I.V.",
-      "abstract": "The death rate among these patients is about 15 percent, researchers reported. The virus should be added to the list of opportunistic infections seen in patients with advanced H.I.V., scientists said.",
-      "url": "https://www.nytimes.com/2023/02/21/health/mpox-hiv.html",
-      "uri": "nyt://article/4f94f9b1-4b3b-5d04-b505-cb7fb2cfd67d",
-      "byline": "By Apoorva Mandavilli",
-      "item_type": "Article",
-      "updated_date": "2023-02-21T23:29:26-05:00",
-      "created_date": "2023-02-21T14:32:07-05:00",
-      "published_date": "2023-02-21T14:32:07-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Acquired Immune Deficiency Syndrome",
-        "Monkeypox",
-        "Research",
-        "Immune System",
-        "Deaths (Fatalities)",
-        "Viruses"
-      ],
-      "org_facet": ["Lancet, The (Journal)"],
-      "per_facet": [],
-      "geo_facet": [],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21mpox-gcht/21mpox-gcht-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2023/06/20/nyregion/20ny-stabbing/20ny-stabbing-superJumbo.jpg",
           "format": "Super Jumbo",
           "height": 1364,
           "width": 2048,
           "type": "image",
           "subtype": "photo",
-          "caption": "A colorized transmission electron micrograph of mpox particles, in red, in an infected cell. Although the number of cases has slowed in most regions, mpox has so far affected roughly 86,000 people in 110 countries and killed 92.",
-          "copyright": "National Institute of Allergy and Infectious Diseases, via Associated Press"
+          "caption": "In one of the attacks over the weekend, two women were slashed in the legs at the 86th Street station on the Lexington Avenue line. ",
+          "copyright": "Ken Lopez/FreedomNewsTV"
         },
         {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21mpox-gcht/21mpox-gcht-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 399,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "A colorized transmission electron micrograph of mpox particles, in red, in an infected cell. Although the number of cases has slowed in most regions, mpox has so far affected roughly 86,000 people in 110 countries and killed 92.",
-          "copyright": "National Institute of Allergy and Infectious Diseases, via Associated Press"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21mpox-gcht/21mpox-gcht-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "A colorized transmission electron micrograph of mpox particles, in red, in an infected cell. Although the number of cases has slowed in most regions, mpox has so far affected roughly 86,000 people in 110 countries and killed 92.",
-          "copyright": "National Institute of Allergy and Infectious Diseases, via Associated Press"
-        }
-      ],
-      "short_url": "https://nyti.ms/3YSWytc"
-    },
-    {
-      "section": "world",
-      "subsection": "europe",
-      "title": "No One in Europe Is Telling Poland to ‘Shut Up’ Now",
-      "abstract": "Having been proved right about Russia, Warsaw is savoring its newfound influence in NATO and on Ukraine policy.",
-      "url": "https://www.nytimes.com/2023/02/21/world/europe/poland-russia-ukraine.html",
-      "uri": "nyt://article/34a8081c-798c-50b5-a7f4-6a4dee1ed879",
-      "byline": "By Andrew Higgins",
-      "item_type": "Article",
-      "updated_date": "2023-02-22T10:51:45-05:00",
-      "created_date": "2023-02-21T13:24:58-05:00",
-      "published_date": "2023-02-21T13:24:58-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "International Relations",
-        "United States International Relations",
-        "Russian Invasion of Ukraine (2022)"
-      ],
-      "org_facet": ["European Union", "North Atlantic Treaty Organization"],
-      "per_facet": ["Morawiecki, Mateusz", "Biden, Joseph R Jr"],
-      "geo_facet": ["Central Europe", "Europe", "Poland", "Russia"],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21ukraine-blog-poland-02-vmzt/21ukraine-blog-poland-02-vmzt-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1367,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "President Biden, who praised Poland on Tuesday as “critical” in the West’s response to Russia, at a meeting with President Andrzej Duda and Prime Minister Mateusz Morawiecki in Warsaw on Tuesday.",
-          "copyright": "Doug Mills/The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21ukraine-blog-poland-02-vmzt/21ukraine-blog-poland-02-vmzt-threeByTwoSmallAt2X.jpg",
+          "url": "https://static01.nyt.com/images/2023/06/20/nyregion/20ny-stabbing/20ny-stabbing-threeByTwoSmallAt2X.jpg",
           "format": "threeByTwoSmallAt2X",
           "height": 400,
           "width": 600,
           "type": "image",
           "subtype": "photo",
-          "caption": "President Biden, who praised Poland on Tuesday as “critical” in the West’s response to Russia, at a meeting with President Andrzej Duda and Prime Minister Mateusz Morawiecki in Warsaw on Tuesday.",
-          "copyright": "Doug Mills/The New York Times"
+          "caption": "In one of the attacks over the weekend, two women were slashed in the legs at the 86th Street station on the Lexington Avenue line. ",
+          "copyright": "Ken Lopez/FreedomNewsTV"
         },
         {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21ukraine-blog-poland-02-vmzt/21ukraine-blog-poland-02-vmzt-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2023/06/20/nyregion/20ny-stabbing/20ny-stabbing-thumbLarge.jpg",
           "format": "Large Thumbnail",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "President Biden, who praised Poland on Tuesday as “critical” in the West’s response to Russia, at a meeting with President Andrzej Duda and Prime Minister Mateusz Morawiecki in Warsaw on Tuesday.",
-          "copyright": "Doug Mills/The New York Times"
+          "caption": "In one of the attacks over the weekend, two women were slashed in the legs at the 86th Street station on the Lexington Avenue line. ",
+          "copyright": "Ken Lopez/FreedomNewsTV"
         }
       ],
-      "short_url": "https://nyti.ms/3SjqCvC"
+      "short_url": "https://nyti.ms/3PjqcGh"
     },
     {
-      "section": "world",
-      "subsection": "asia",
-      "title": "China’s Courtship of European Powers Hits a Russian Wall",
-      "abstract": "Beijing, in urgent need of reviving its economy, wants to mend ties with Europe but is struggling to create distance between itself and Moscow.",
-      "url": "https://www.nytimes.com/2023/02/21/world/asia/china-europe-russia-ukraine.html",
-      "uri": "nyt://article/6a1e85b1-3c70-5771-8f35-3c0fb0ed6bb5",
-      "byline": "By David Pierson",
+      "section": "nyregion",
+      "subsection": "",
+      "title": "Improper Covid Aid Flowed to Fishery Businesses, Official Finds",
+      "abstract": "Nearly half of $14.4 million dispensed to seafood processors, charter boats and other businesses in New Jersey during the pandemic may have to be paid back.",
+      "url": "https://www.nytimes.com/2023/06/20/nyregion/nj-covid-money.html",
+      "uri": "nyt://article/c2d9e0d6-90cd-52d3-b9b1-80dc4c5c8541",
+      "byline": "By Elise Young",
       "item_type": "Article",
-      "updated_date": "2023-02-22T08:02:44-05:00",
-      "created_date": "2023-02-21T12:26:30-05:00",
-      "published_date": "2023-02-21T12:26:30-05:00",
+      "updated_date": "2023-06-20T15:05:07-04:00",
+      "created_date": "2023-06-20T09:00:08-04:00",
+      "published_date": "2023-06-20T09:00:08-04:00",
       "material_type_facet": "",
       "kicker": "",
       "des_facet": [
-        "International Relations",
-        "United States International Relations",
-        "Embargoes and Sanctions",
-        "Russian Invasion of Ukraine (2022)",
-        "Defense and Military Forces"
+        "Coronavirus (2019-nCoV)",
+        "Stimulus (Economic)",
+        "Coronavirus Aid, Relief, and Economic Security Act (2020)",
+        "Boats and Boating",
+        "Fish and Other Marine Life"
       ],
-      "org_facet": ["European Union", "North Atlantic Treaty Organization"],
-      "per_facet": [],
-      "geo_facet": ["China", "Europe", "Russia", "Ukraine"],
+      "org_facet": [],
+      "per_facet": ["Murphy, Philip D (1957- )"],
+      "geo_facet": ["New Jersey"],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/china-europe-russia-kcfh/china-europe-russia-kcfh-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2023/06/20/nyregion/20NJ-COVID-MONEY/20NJ-COVID-MONEY-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Fishery businesses in New Jersey received $14.4 million in Covid relief aid. But the state comptroller says nearly half of that was improperly awarded.",
+          "copyright": "Wayne Parry/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/20/nyregion/20NJ-COVID-MONEY/20NJ-COVID-MONEY-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Fishery businesses in New Jersey received $14.4 million in Covid relief aid. But the state comptroller says nearly half of that was improperly awarded.",
+          "copyright": "Wayne Parry/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/20/nyregion/20NJ-COVID-MONEY/20NJ-COVID-MONEY-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Fishery businesses in New Jersey received $14.4 million in Covid relief aid. But the state comptroller says nearly half of that was improperly awarded.",
+          "copyright": "Wayne Parry/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3XfXIyY"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "3 Are Convicted of Harassing Family on Behalf of China’s Government",
+      "abstract": "The defendants, including a private detective who said he did not realize he was working for an intelligence operation, pursued people living in New Jersey.",
+      "url": "https://www.nytimes.com/2023/06/20/nyregion/verdict-china-spying-trial.html",
+      "uri": "nyt://article/371ecef0-45bc-50c1-9d0d-57a6b9a1cdf2",
+      "byline": "By Karen Zraick",
+      "item_type": "Article",
+      "updated_date": "2023-06-20T18:56:34-04:00",
+      "created_date": "2023-06-20T12:37:39-04:00",
+      "published_date": "2023-06-20T12:37:39-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Decisions and Verdicts",
+        "Stalking (Crime)",
+        "Detectives (Private)",
+        "Espionage and Intelligence Services",
+        "Surveillance of Citizens by Government",
+        "United States International Relations"
+      ],
+      "org_facet": ["Justice Department"],
+      "per_facet": [
+        "McMahon, Michael (New York, NY, Police Officer)",
+        "Zhu, Yong (Jason Zhu)",
+        "Zheng, Congying",
+        "Xu Jin"
+      ],
+      "geo_facet": ["China", "New Jersey"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/20/multimedia/20CHINA-TRIAL-VERDICT-lpmb/20CHINA-TRIAL-VERDICT-lpmb-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael McMahon, left, a former New York police officer turned private investigator, said he had no idea he was working for China’s government.",
+          "copyright": "Bing Guan for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/20/multimedia/20CHINA-TRIAL-VERDICT-lpmb/20CHINA-TRIAL-VERDICT-lpmb-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael McMahon, left, a former New York police officer turned private investigator, said he had no idea he was working for China’s government.",
+          "copyright": "Bing Guan for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/20/multimedia/20CHINA-TRIAL-VERDICT-lpmb/20CHINA-TRIAL-VERDICT-lpmb-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Michael McMahon, left, a former New York police officer turned private investigator, said he had no idea he was working for China’s government.",
+          "copyright": "Bing Guan for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3XjmNZK"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "A Brooklyn School Pioneers New Ways to Teach Children With Disabilities",
+      "abstract": "At P.S. 15 in Red Hook, a unique program for students with intellectual disabilities could serve as a model for other New York City schools.",
+      "url": "https://www.nytimes.com/2023/06/20/nyregion/ps-15-red-hook-brooklyn.html",
+      "uri": "nyt://article/00ca03a6-f0bb-5c8a-b4ce-9571e85accb2",
+      "byline": "By Troy Closson and Jackie Molloy",
+      "item_type": "Article",
+      "updated_date": "2023-06-20T14:22:18-04:00",
+      "created_date": "2023-06-20T03:00:23-04:00",
+      "published_date": "2023-06-20T03:00:23-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "audio-neutral-immersive",
+        "audio-positive-happy",
+        "Education (K-12)",
+        "Special Education",
+        "Intellectual Disabilities",
+        "Teachers and School Employees",
+        "Children and Childhood"
+      ],
+      "org_facet": ["PS 15 Patrick F Daly (Brooklyn, NY)"],
+      "per_facet": [],
+      "geo_facet": ["Red Hook (Brooklyn, NY)", "New York City"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/14/multimedia/00ny-special-ed-final-promo/00ny-special-ed-final-03-mphq-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jackie Molloy for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/14/multimedia/00ny-special-ed-final-promo/00ny-special-ed-final-03-mphq-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jackie Molloy for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/14/multimedia/00ny-special-ed-final-promo/00ny-special-ed-final-03-mphq-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jackie Molloy for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Jo2hSh"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "Ocasio-Cortez’s Unusual Place in N.Y. City Council Races: The Sidelines",
+      "abstract": "With early voting in the New York City Council primaries underway, Representative Alexandria Ocasio-Cortez has yet to endorse any candidate.",
+      "url": "https://www.nytimes.com/2023/06/20/nyregion/aoc-endorsement-nyc-council.html",
+      "uri": "nyt://article/3a1838f9-e206-5351-830b-bae2490ad45f",
+      "byline": "By Nicholas Fandos",
+      "item_type": "Article",
+      "updated_date": "2023-06-20T03:00:20-04:00",
+      "created_date": "2023-06-20T03:00:20-04:00",
+      "published_date": "2023-06-20T03:00:20-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Endorsements",
+        "Politics and Government",
+        "Primaries and Caucuses",
+        "City Councils"
+      ],
+      "org_facet": ["City Council (NYC)", "Democratic Party"],
+      "per_facet": ["Ocasio-Cortez, Alexandria"],
+      "geo_facet": ["New York City"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/20/multimedia/20aoc-council01-ljph/20aoc-council01-ljph-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Representative Alexandria Ocasio-Cortez has offered to quietly help New York City Council incumbents who voted against last year’s city budget, but has not pledged to endorse them.",
+          "copyright": "Haiyun Jiang/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/20/multimedia/20aoc-council01-ljph/20aoc-council01-ljph-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Representative Alexandria Ocasio-Cortez has offered to quietly help New York City Council incumbents who voted against last year’s city budget, but has not pledged to endorse them.",
+          "copyright": "Haiyun Jiang/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/20/multimedia/20aoc-council01-ljph/20aoc-council01-ljph-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Representative Alexandria Ocasio-Cortez has offered to quietly help New York City Council incumbents who voted against last year’s city budget, but has not pledged to endorse them.",
+          "copyright": "Haiyun Jiang/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/445ndoW"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "The Suburbs Don’t Love New York",
+      "abstract": "As fewer suburbanites commute to the city, their fear and loathing has grown, as have tensions between city and suburban officials.",
+      "url": "https://www.nytimes.com/2023/06/20/nyregion/the-suburbs-dont-love-new-york.html",
+      "uri": "nyt://article/fe74ac05-7045-5bf5-a981-13317ec405de",
+      "byline": "By James Barron",
+      "item_type": "Article",
+      "updated_date": "2023-06-20T00:03:05-04:00",
+      "created_date": "2023-06-20T00:03:05-04:00",
+      "published_date": "2023-06-20T00:03:05-04:00",
+      "material_type_facet": "",
+      "kicker": "New York Today",
+      "des_facet": [
+        "internal-storyline-no",
+        "Wines",
+        "Congestion Pricing",
+        "Suburbs",
+        "Crime and Criminals",
+        "Telecommuting"
+      ],
+      "org_facet": ["Sherry-Lehmann Wine & Spirits"],
+      "per_facet": ["Gilmer, Shyda", "Green, Kris"],
+      "geo_facet": ["New York City", "Long Island (NY)", "New Jersey"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/05/12/multimedia/20nytoday-suburbs/12NY-MIGRANTS-print2-bjfz-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ed Day, the chief executive of Rockland County, is one of the suburban officials who has fought against housing migrants in his county.",
+          "copyright": "Gregg Vigliotti for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/05/12/multimedia/20nytoday-suburbs/12NY-MIGRANTS-print2-bjfz-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ed Day, the chief executive of Rockland County, is one of the suburban officials who has fought against housing migrants in his county.",
+          "copyright": "Gregg Vigliotti for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/05/12/multimedia/20nytoday-suburbs/12NY-MIGRANTS-print2-bjfz-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ed Day, the chief executive of Rockland County, is one of the suburban officials who has fought against housing migrants in his county.",
+          "copyright": "Gregg Vigliotti for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/42T4z2y"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "4 Die in Fire Caused by Batteries in E-Bike Shop Near Chinatown",
+      "abstract": "The blaze, which left two others in critical condition, began on the first floor of a building at 80 Madison Street shortly after midnight.",
+      "url": "https://www.nytimes.com/2023/06/20/nyregion/nyc-chinatown-fire.html",
+      "uri": "nyt://article/6eeb5ebb-d5aa-53ce-bff5-346e0c6d84bc",
+      "byline": "By Hurubie Meko, Chelsia Rose Marcius, Winnie Hu and Ellen Yan",
+      "item_type": "Article",
+      "updated_date": "2023-06-20T17:18:20-04:00",
+      "created_date": "2023-06-20T06:51:39-04:00",
+      "published_date": "2023-06-20T06:51:39-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Fires and Firefighters",
+        "Deaths (Fatalities)",
+        "Electric Bicycles, Motorcycles and Scooters",
+        "Accidents and Safety"
+      ],
+      "org_facet": ["Fire Department (NYC)"],
+      "per_facet": [],
+      "geo_facet": ["Chinatown (Manhattan, NY)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/20/multimedia/20fatal-fire-kzlw/20fatal-fire-kzlw-superJumbo-v2.jpg",
           "format": "Super Jumbo",
           "height": 1366,
           "width": 2048,
           "type": "image",
           "subtype": "photo",
-          "caption": "Wang Yi, China’s most senior diplomat, shakes hands with German Chancellor Olaf Scholz at the Munich Security Conference on Friday.",
-          "copyright": "Pool photo by Thomas Kienzle"
+          "caption": "The fire began on a street that lies just outside the borders of Chinatown, near the Manhattan Bridge.",
+          "copyright": "Amir Hamja/The New York Times"
         },
         {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/china-europe-russia-kcfh/china-europe-russia-kcfh-threeByTwoSmallAt2X.jpg",
+          "url": "https://static01.nyt.com/images/2023/06/20/multimedia/20fatal-fire-kzlw/20fatal-fire-kzlw-threeByTwoSmallAt2X-v2.jpg",
           "format": "threeByTwoSmallAt2X",
           "height": 400,
           "width": 600,
           "type": "image",
           "subtype": "photo",
-          "caption": "Wang Yi, China’s most senior diplomat, shakes hands with German Chancellor Olaf Scholz at the Munich Security Conference on Friday.",
-          "copyright": "Pool photo by Thomas Kienzle"
+          "caption": "The fire began on a street that lies just outside the borders of Chinatown, near the Manhattan Bridge.",
+          "copyright": "Amir Hamja/The New York Times"
         },
         {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/china-europe-russia-kcfh/china-europe-russia-kcfh-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2023/06/20/multimedia/20fatal-fire-kzlw/20fatal-fire-kzlw-thumbLarge-v3.jpg",
           "format": "Large Thumbnail",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "Wang Yi, China’s most senior diplomat, shakes hands with German Chancellor Olaf Scholz at the Munich Security Conference on Friday.",
-          "copyright": "Pool photo by Thomas Kienzle"
+          "caption": "The fire began on a street that lies just outside the borders of Chinatown, near the Manhattan Bridge.",
+          "copyright": "Amir Hamja/The New York Times"
         }
       ],
-      "short_url": "https://nyti.ms/3Z5tkqK"
+      "short_url": "https://nyti.ms/3Pn0HUr"
     },
     {
-      "section": "climate",
+      "section": "nyregion",
       "subsection": "",
-      "title": "Parched California Misses a Chance to Store More Rain Underground",
-      "abstract": "Torrential rains could have helped to replenish depleted aquifers, but some say state bureaucracy, designed to distribute water fairly, has stood in the way.",
-      "url": "https://www.nytimes.com/2023/02/21/climate/california-storms-groundwater-aquifer-recharge.html",
-      "uri": "nyt://article/7b23b11a-d687-5a43-9fd4-3ff1951f0849",
-      "byline": "By Raymond Zhong",
+      "title": "Ex-Lawyer Who Killed Girlfriend Dies in Custody Days Before Sentencing",
+      "abstract": "James Ray III faced a life sentence after being convicted of murder. He was found unconscious in his New Jersey jail cell on Father’s Day.",
+      "url": "https://www.nytimes.com/2023/06/19/nyregion/james-ray-montclair-dead.html",
+      "uri": "nyt://article/116849b7-c4a2-5304-8369-e244ef93da26",
+      "byline": "By Tracey Tully",
       "item_type": "Article",
-      "updated_date": "2023-02-22T11:42:14-05:00",
-      "created_date": "2023-02-21T12:17:55-05:00",
-      "published_date": "2023-02-21T12:17:55-05:00",
+      "updated_date": "2023-06-19T23:12:12-04:00",
+      "created_date": "2023-06-19T13:15:31-04:00",
+      "published_date": "2023-06-19T13:15:31-04:00",
       "material_type_facet": "",
       "kicker": "",
       "des_facet": [
-        "Water",
-        "Drought",
-        "Aquifers",
-        "Floods",
-        "Agriculture and Farming",
-        "Reservoirs",
-        "Irrigation",
-        "Infrastructure (Public Works)",
-        "Rivers"
+        "Deaths (Fatalities)",
+        "Prisons and Prisoners",
+        "Domestic Violence"
       ],
-      "org_facet": ["California State Water Resources Control Board"],
-      "per_facet": [],
-      "geo_facet": ["California"],
+      "org_facet": ["Essex County Correctional Facility"],
+      "per_facet": ["Ray, James R III", "Bledsoe, Angela (d 2018)"],
+      "geo_facet": ["Essex County (NJ)", "Montclair (NJ)"],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/00cli-recharge-01-bcqg/00cli-recharge-01-bcqg-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1485,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "The overflowing Russian River in mid-January. Next time there’s a storm, a group of vineyards and local agencies hopes to capture more floodwater.",
-          "copyright": "Fred Greaves/Reuters"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/00cli-recharge-01-bcqg/00cli-recharge-01-bcqg-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "The overflowing Russian River in mid-January. Next time there’s a storm, a group of vineyards and local agencies hopes to capture more floodwater.",
-          "copyright": "Fred Greaves/Reuters"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/16/multimedia/00cli-recharge-01-bcqg/00cli-recharge-01-bcqg-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "The overflowing Russian River in mid-January. Next time there’s a storm, a group of vineyards and local agencies hopes to capture more floodwater.",
-          "copyright": "Fred Greaves/Reuters"
-        }
-      ],
-      "short_url": "https://nyti.ms/3ErQRKP"
-    },
-    {
-      "section": "world",
-      "subsection": "europe",
-      "title": "China’s Leading Electric Carmaker Has Arrived in Germany",
-      "abstract": "BYD is a powerhouse in China and sells the most electric vehicles of any company in the world. Now it has a plan to attract buyers in Europe’s largest economy.",
-      "url": "https://www.nytimes.com/2023/02/21/world/europe/byd-germany-electric-cars.html",
-      "uri": "nyt://article/c4a76b80-9319-573c-9baa-9c0143b7e9de",
-      "byline": "By Melissa Eddy",
-      "item_type": "Article",
-      "updated_date": "2023-02-22T11:49:11-05:00",
-      "created_date": "2023-02-21T11:53:41-05:00",
-      "published_date": "2023-02-21T11:53:41-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Electric and Hybrid Vehicles",
-        "Batteries",
-        "Factories and Manufacturing",
-        "Automobiles"
-      ],
-      "org_facet": [
-        "BYD Co Ltd",
-        "Ford Motor Co",
-        "Sixt",
-        "Tesla Motors Inc",
-        "Volkswagen AG"
-      ],
-      "per_facet": [],
-      "geo_facet": ["Germany", "China", "Europe"],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21germany-byd-01-btwj/21germany-byd-01-btwj-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2023/06/19/multimedia/19montclair-dead-jghz/19montclair-dead-jghz-superJumbo.jpg",
           "format": "Super Jumbo",
           "height": 1365,
           "width": 2048,
           "type": "image",
           "subtype": "photo",
-          "caption": "BYD’s Atto-3 electric sport utility vehicle in Frankfurt. So far, the vast majority of BYD cars are sold in China. But the company is looking to expand, particularly in Germany.",
-          "copyright": "Felix Schmitt for The New York Times"
+          "caption": "James R. Ray III, shown in March before his murder trial, died on Sunday after being found in his jail cell at the Essex County Correctional Facility in Newark, officials said.",
+          "copyright": "Bryan Anselm for The New York Times"
         },
         {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21germany-byd-01-btwj/21germany-byd-01-btwj-threeByTwoSmallAt2X.jpg",
+          "url": "https://static01.nyt.com/images/2023/06/19/multimedia/19montclair-dead-jghz/19montclair-dead-jghz-threeByTwoSmallAt2X.jpg",
           "format": "threeByTwoSmallAt2X",
           "height": 400,
           "width": 600,
           "type": "image",
           "subtype": "photo",
-          "caption": "BYD’s Atto-3 electric sport utility vehicle in Frankfurt. So far, the vast majority of BYD cars are sold in China. But the company is looking to expand, particularly in Germany.",
-          "copyright": "Felix Schmitt for The New York Times"
+          "caption": "James R. Ray III, shown in March before his murder trial, died on Sunday after being found in his jail cell at the Essex County Correctional Facility in Newark, officials said.",
+          "copyright": "Bryan Anselm for The New York Times"
         },
         {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21germany-byd-01-btwj/21germany-byd-01-btwj-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2023/06/19/multimedia/19montclair-dead-jghz/19montclair-dead-jghz-thumbLarge.jpg",
           "format": "Large Thumbnail",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "BYD’s Atto-3 electric sport utility vehicle in Frankfurt. So far, the vast majority of BYD cars are sold in China. But the company is looking to expand, particularly in Germany.",
-          "copyright": "Felix Schmitt for The New York Times"
+          "caption": "James R. Ray III, shown in March before his murder trial, died on Sunday after being found in his jail cell at the Essex County Correctional Facility in Newark, officials said.",
+          "copyright": "Bryan Anselm for The New York Times"
         }
       ],
-      "short_url": "https://nyti.ms/3xFvVfq"
+      "short_url": "https://nyti.ms/42LP10v"
     },
     {
-      "section": "world",
-      "subsection": "europe",
-      "title": "Russia’s Top Paramilitary Chief Accuses Army Command of Treason",
-      "abstract": "Caustic accusations by the head of the Wagner mercenary group, Yevgeny Prigozhin, suggest that his vaunted access to Vladimir Putin may be on the wane.",
-      "url": "https://www.nytimes.com/2023/02/21/world/europe/wagner-russia-military-prigozhin.html",
-      "uri": "nyt://article/e64a1c2e-7574-5194-9e23-88fda3e931fc",
-      "byline": "By Anatoly Kurmanaev",
+      "section": "theater",
+      "subsection": "",
+      "title": "Tony Awards Give a Box Office Boost to Prize-Winning Shows",
+      "abstract": "“Leopoldstadt,” which was named best play, and “Kimberly Akimbo,” which won best musical, saw considerable increases in ticket sales.",
+      "url": "https://www.nytimes.com/2023/06/20/theater/tony-awards-broadway-box-office.html",
+      "uri": "nyt://article/6b20ea2c-cfa5-5837-9d74-7282bb7bcaf6",
+      "byline": "By Michael Paulson and Christopher Kuo",
       "item_type": "Article",
-      "updated_date": "2023-02-21T23:19:48-05:00",
-      "created_date": "2023-02-21T10:39:11-05:00",
-      "published_date": "2023-02-21T10:39:11-05:00",
+      "updated_date": "2023-06-20T18:19:00-04:00",
+      "created_date": "2023-06-20T18:19:00-04:00",
+      "published_date": "2023-06-20T18:19:00-04:00",
       "material_type_facet": "",
       "kicker": "",
       "des_facet": [
-        "Russian Invasion of Ukraine (2022)",
-        "Defense and Military Forces"
-      ],
-      "org_facet": ["Wagner Group"],
-      "per_facet": ["Prigozhin, Yevgeny V"],
-      "geo_facet": ["Russia", "Ukraine"],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21ukraine-blog-wagner-prigozhin-wzjc/21ukraine-blog-wagner-prigozhin-wzjc-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1463,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Funeral rites for eight Wagner soldiers killed in battle this month.",
-          "copyright": "Nanna Heitmann for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21ukraine-blog-wagner-prigozhin-wzjc/21ukraine-blog-wagner-prigozhin-wzjc-threeByTwoSmallAt2X.jpg",
-          "format": "threeByTwoSmallAt2X",
-          "height": 400,
-          "width": 600,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Funeral rites for eight Wagner soldiers killed in battle this month.",
-          "copyright": "Nanna Heitmann for The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21ukraine-blog-wagner-prigozhin-wzjc/21ukraine-blog-wagner-prigozhin-wzjc-thumbLarge.jpg",
-          "format": "Large Thumbnail",
-          "height": 150,
-          "width": 150,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Funeral rites for eight Wagner soldiers killed in battle this month.",
-          "copyright": "Nanna Heitmann for The New York Times"
-        }
-      ],
-      "short_url": "https://nyti.ms/3xI7OwA"
-    },
-    {
-      "section": "world",
-      "subsection": "europe",
-      "title": "Putin’s Move on Nuclear Treaty May Signal End to Formal Arms Control",
-      "abstract": "Mutual inspections were interrupted by the pandemic, then by the war in Ukraine. But now New START, the last nuclear agreement between Russia and the United States, is dying, and arms control may be, too.",
-      "url": "https://www.nytimes.com/2023/02/21/world/europe/putin-new-start-treaty.html",
-      "uri": "nyt://article/7432f24d-c9f1-59ca-b802-48e7cd2e28f8",
-      "byline": "By David E. Sanger",
-      "item_type": "Article",
-      "updated_date": "2023-02-22T08:51:56-05:00",
-      "created_date": "2023-02-21T09:39:50-05:00",
-      "published_date": "2023-02-21T09:39:50-05:00",
-      "material_type_facet": "",
-      "kicker": "News Analysis",
-      "des_facet": [
-        "Speeches and Statements",
-        "Nuclear Weapons",
-        "Defense and Military Forces",
-        "Strategic Arms Reduction Treaty",
-        "Arms Control and Limitation and Disarmament",
-        "Russian Invasion of Ukraine (2022)",
-        "United States International Relations"
+        "Theater",
+        "Tony Awards (Theater Awards)",
+        "Box Office Sales",
+        "Theater (Broadway)",
+        "Kimberly Akimbo (Play)",
+        "Leopoldstadt (Play)",
+        "Life of Pi (Play)"
       ],
       "org_facet": [],
-      "per_facet": ["Putin, Vladimir V", "Biden, Joseph R Jr"],
-      "geo_facet": ["Russia", "Ukraine"],
+      "per_facet": [],
+      "geo_facet": [],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2023/02/21/world/21ukraine-blog-nukes-context-ukz/21ukraine-blog-nukes-context-ukz-superJumbo.jpg",
+          "url": "https://static01.nyt.com/images/2023/06/20/multimedia/20broadway-1-tvpq/20broadway-1-tvpq-superJumbo.jpg",
           "format": "Super Jumbo",
-          "height": 1365,
+          "height": 1379,
           "width": 2048,
           "type": "image",
           "subtype": "photo",
-          "caption": "A Russian ballistic missile during a Moscow parade rehearsal in 2021. The New START agreement restricts each side to 1,550 nuclear weapons.",
-          "copyright": "Pavel Golovkin/Associated Press"
+          "caption": "Tom Stoppard’s “Leopoldstadt,” which won the Tony Award for best new play, saw its grosses up 42 percent over the prior week.",
+          "copyright": "Sara Krulwich/The New York Times"
         },
         {
-          "url": "https://static01.nyt.com/images/2023/02/21/world/21ukraine-blog-nukes-context-ukz/21ukraine-blog-nukes-context-ukz-threeByTwoSmallAt2X.jpg",
+          "url": "https://static01.nyt.com/images/2023/06/20/multimedia/20broadway-1-tvpq/20broadway-1-tvpq-threeByTwoSmallAt2X.jpg",
           "format": "threeByTwoSmallAt2X",
           "height": 400,
           "width": 600,
           "type": "image",
           "subtype": "photo",
-          "caption": "A Russian ballistic missile during a Moscow parade rehearsal in 2021. The New START agreement restricts each side to 1,550 nuclear weapons.",
-          "copyright": "Pavel Golovkin/Associated Press"
+          "caption": "Tom Stoppard’s “Leopoldstadt,” which won the Tony Award for best new play, saw its grosses up 42 percent over the prior week.",
+          "copyright": "Sara Krulwich/The New York Times"
         },
         {
-          "url": "https://static01.nyt.com/images/2023/02/21/world/21ukraine-blog-nukes-context-ukz/21ukraine-blog-nukes-context-ukz-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2023/06/20/multimedia/20broadway-1-tvpq/20broadway-1-tvpq-thumbLarge.jpg",
           "format": "Large Thumbnail",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "A Russian ballistic missile during a Moscow parade rehearsal in 2021. The New START agreement restricts each side to 1,550 nuclear weapons.",
-          "copyright": "Pavel Golovkin/Associated Press"
+          "caption": "Tom Stoppard’s “Leopoldstadt,” which won the Tony Award for best new play, saw its grosses up 42 percent over the prior week.",
+          "copyright": "Sara Krulwich/The New York Times"
         }
       ],
-      "short_url": "https://nyti.ms/3xNU8jz"
+      "short_url": "https://nyti.ms/3Pnlozr"
     },
     {
-      "section": "world",
-      "subsection": "",
-      "title": "1923: Blaze Destroys Army Buildings",
-      "abstract": "The fire gutted orderly rooms and stores of the Fifth Division.",
-      "url": "https://www.nytimes.com/2023/02/21/world/1923-blaze-destroys-army-buildings.html",
-      "uri": "nyt://article/5c63b61d-73aa-5d64-b2a0-9e009e5bffa4",
-      "byline": "By The International Herald Tribune",
+      "section": "arts",
+      "subsection": "dance",
+      "title": "Magda Saleh, Influential Egyptian Ballerina, Is Dead at 79",
+      "abstract": "Trained at the Bolshoi, she became a star of the Cairo Ballet and played a key role in making ballet accessible to people of all classes.",
+      "url": "https://www.nytimes.com/2023/06/20/arts/dance/magda-saleh-dead.html",
+      "uri": "nyt://article/3374e6fb-fd05-556f-bb19-0ee9b42c12c0",
+      "byline": "By Anna Kisselgoff",
       "item_type": "Article",
-      "updated_date": "2023-02-21T09:02:52-05:00",
-      "created_date": "2023-02-21T09:02:52-05:00",
-      "published_date": "2023-02-21T09:02:52-05:00",
+      "updated_date": "2023-06-20T18:08:35-04:00",
+      "created_date": "2023-06-20T16:40:59-04:00",
+      "published_date": "2023-06-20T16:40:59-04:00",
       "material_type_facet": "",
       "kicker": "",
+      "des_facet": ["Dancing", "Deaths (Obituaries)"],
+      "org_facet": ["Bolshoi Ballet"],
+      "per_facet": ["Saleh, Magda"],
+      "geo_facet": ["Egypt", "Shelter Island (NY)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/21/multimedia/17Saleh-01-hkzc-print1/17Saleh-01-hkzc-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1474,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Magda Saleh in an undated photograph. The Egyptian press called her Cairo’s first prima ballerina, but she often said that she was less interested in galas and glamour than in exposing people to ballet. ",
+          "copyright": "via Magda Saleh"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/21/multimedia/17Saleh-01-hkzc-print1/17Saleh-01-hkzc-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Magda Saleh in an undated photograph. The Egyptian press called her Cairo’s first prima ballerina, but she often said that she was less interested in galas and glamour than in exposing people to ballet. ",
+          "copyright": "via Magda Saleh"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/21/multimedia/17Saleh-01-hkzc-print1/17Saleh-01-hkzc-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Magda Saleh in an undated photograph. The Egyptian press called her Cairo’s first prima ballerina, but she often said that she was less interested in galas and glamour than in exposing people to ballet. ",
+          "copyright": "via Magda Saleh"
+        }
+      ],
+      "short_url": "https://nyti.ms/3qXEPEN"
+    },
+    {
+      "section": "dining",
+      "subsection": "",
+      "title": "Restaurant Review: Okdongsik Serves Two Things, and Both Are Outstanding",
+      "abstract": "The tiny counter from one of South Korea’s star chefs is a near-replica of its counterpart in Seoul.",
+      "url": "https://www.nytimes.com/2023/06/20/dining/okdongsik-korea-town-restaurant-review.html",
+      "uri": "nyt://article/4b292e86-4daf-521c-9a0a-5ad70fc8620d",
+      "byline": "By Pete Wells",
+      "item_type": "Article",
+      "updated_date": "2023-06-20T15:37:29-04:00",
+      "created_date": "2023-06-20T15:37:29-04:00",
+      "published_date": "2023-06-20T15:37:29-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Restaurants",
+        "Soups",
+        "Pop-Up Stores and Restaurants",
+        "Korean Food (Cuisine)"
+      ],
+      "org_facet": [
+        "Hand Hospitality",
+        "Okdongsik (Manhattan, NY, Restaurant)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/21/multimedia/21rest-okdongsik-02-mqlb/20rest-okdongsik-02-mqlb-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Okdongsik’s reputation rests on its dweji gomtang, a pork soup.",
+          "copyright": "Adam Friedlander for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/21/multimedia/21rest-okdongsik-02-mqlb/20rest-okdongsik-02-mqlb-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Okdongsik’s reputation rests on its dweji gomtang, a pork soup.",
+          "copyright": "Adam Friedlander for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/21/multimedia/21rest-okdongsik-02-mqlb/20rest-okdongsik-02-mqlb-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Okdongsik’s reputation rests on its dweji gomtang, a pork soup.",
+          "copyright": "Adam Friedlander for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3pgNz8L"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "Jonathan Majors to Face Trial on Assault Charges in August",
+      "abstract": "The movie star, who has maintained his innocence, appeared briefly in a Manhattan courtroom on Tuesday morning.",
+      "url": "https://www.nytimes.com/2023/06/20/movies/jonathan-majors-court-appearance.html",
+      "uri": "nyt://article/582c11e7-31da-51ee-bad7-a5b8d76d01e2",
+      "byline": "By Matt Stevens",
+      "item_type": "Article",
+      "updated_date": "2023-06-20T12:36:26-04:00",
+      "created_date": "2023-06-20T11:36:37-04:00",
+      "published_date": "2023-06-20T11:36:37-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Assaults",
+        "Actors and Actresses",
+        "Movies",
+        "Magazine Dreams (Movie)"
+      ],
+      "org_facet": ["Walt Disney Company"],
+      "per_facet": ["Majors, Jonathan (1989- )"],
+      "geo_facet": ["New York City"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/21/multimedia/20majors-item-lvct/20majors-item-lvct-superJumbo-v2.jpg",
+          "format": "Super Jumbo",
+          "height": 1536,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The actor Jonathan Majors, in sunglasses and holding hands with his girlfriend, Meagan Good, walking into a Manhattan courtroom for a hearing Tuesday.",
+          "copyright": "James Estrin/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/21/multimedia/20majors-item-lvct/20majors-item-lvct-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The actor Jonathan Majors, in sunglasses and holding hands with his girlfriend, Meagan Good, walking into a Manhattan courtroom for a hearing Tuesday.",
+          "copyright": "James Estrin/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/21/multimedia/20majors-item-lvct/20majors-item-lvct-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The actor Jonathan Majors, in sunglasses and holding hands with his girlfriend, Meagan Good, walking into a Manhattan courtroom for a hearing Tuesday.",
+          "copyright": "James Estrin/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/445DgmI"
+    },
+    {
+      "section": "style",
+      "subsection": "",
+      "title": "But Would They Really Go Back to the Jazz Age?",
+      "abstract": "A lawn party for would-be Gatsbys and flappers has become an annual New York tradition.",
+      "url": "https://www.nytimes.com/2023/06/20/style/jazz-age-lawn-party.html",
+      "uri": "nyt://article/4a233f28-a241-5892-afee-89a5437fa823",
+      "byline": "By Alex Vadukul",
+      "item_type": "Article",
+      "updated_date": "2023-06-20T05:01:03-04:00",
+      "created_date": "2023-06-20T05:01:03-04:00",
+      "published_date": "2023-06-20T05:01:03-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Jazz",
+        "Nineteen Hundred Twenties",
+        "Fashion and Apparel",
+        "Parties (Social)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Governors Island (Manhattan, NY)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/22/multimedia/16JAZZAGE-01-gcwl/16JAZZAGE-01-gcwl-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Roaring Twenties re-enactors had a hot time on Governors Island.",
+          "copyright": "Desiree Rios for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/22/multimedia/16JAZZAGE-01-gcwl/16JAZZAGE-01-gcwl-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Roaring Twenties re-enactors had a hot time on Governors Island.",
+          "copyright": "Desiree Rios for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/22/multimedia/16JAZZAGE-01-gcwl/16JAZZAGE-01-gcwl-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Roaring Twenties re-enactors had a hot time on Governors Island.",
+          "copyright": "Desiree Rios for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3NCkYnw"
+    },
+    {
+      "section": "travel",
+      "subsection": "",
+      "title": "A Walk Through the Past in New York",
+      "abstract": "Ahead of next year’s 400th anniversary of the Dutch colony of New Netherland, the historian and author of “The Island at the Center of the World” offers a walking tour of often-overlooked Native American and Black sites.",
+      "url": "https://www.nytimes.com/2023/06/19/travel/walking-tour-nyc-history.html",
+      "uri": "nyt://article/a7901a87-3de4-52de-8794-2e6d4818188a",
+      "byline": "By Russell Shorto",
+      "item_type": "Article",
+      "updated_date": "2023-06-20T13:58:46-04:00",
+      "created_date": "2023-06-19T05:01:37-04:00",
+      "published_date": "2023-06-19T05:01:37-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Black People",
+        "Walking",
+        "Native Americans",
+        "Travel and Vacations",
+        "Historic Buildings and Sites"
+      ],
+      "org_facet": [],
+      "per_facet": ["Shorto, Russell"],
+      "geo_facet": ["Financial District (Manhattan, NY)", "New York City"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/25/multimedia/00Walking-New-York-ghkb/00Walking-New-York-ghkb-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1639,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\nIn the 1600s, the Dutch settlement of New Amsterdam was situated on what is now the southern tip of Manhattan, the present location of the Financial District.",
+          "copyright": "George Etheredge for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/25/multimedia/00Walking-New-York-ghkb/00Walking-New-York-ghkb-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\nIn the 1600s, the Dutch settlement of New Amsterdam was situated on what is now the southern tip of Manhattan, the present location of the Financial District.",
+          "copyright": "George Etheredge for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/25/multimedia/00Walking-New-York-ghkb/00Walking-New-York-ghkb-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "\nIn the 1600s, the Dutch settlement of New Amsterdam was situated on what is now the southern tip of Manhattan, the present location of the Financial District.",
+          "copyright": "George Etheredge for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/43RtUez"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "Can’t Repeat the Past? An Immersive ‘Great Gatsby’ Thinks You Can.",
+      "abstract": "The theatrical performance of F. Scott Fitzgerald’s 1925 novel, opening this month at the Park Central Hotel, is the latest in a very long, heavily sequined line of “Gatsby” adaptations.",
+      "url": "https://www.nytimes.com/2023/06/19/theater/great-gatsby-immersive-nyc.html",
+      "uri": "nyt://article/577ce0d4-09d6-58ea-b6c4-04b77b511747",
+      "byline": "By Alexis Soloski",
+      "item_type": "Article",
+      "updated_date": "2023-06-20T17:42:18-04:00",
+      "created_date": "2023-06-19T05:01:00-04:00",
+      "published_date": "2023-06-19T05:01:00-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "The Great Gatsby (Book)",
+        "Theater",
+        "The Great Gatsby: The Immersive Show (Play)"
+      ],
+      "org_facet": ["Park Central Hotel (Manhattan, NY)"],
+      "per_facet": ["Fitzgerald, F Scott"],
+      "geo_facet": ["New York City"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/25/multimedia/25gatsby-02-hlkm/25gatsby-02-hlkm-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Claire Saunders, left, and Jillian Anne Abaya perform in an immersive-theater version of “The Great Gatsby.” The book’s copyright expired in 2021, and it has been widely adapted since then.",
+          "copyright": "Amir Hamja for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/25/multimedia/25gatsby-02-hlkm/25gatsby-02-hlkm-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Claire Saunders, left, and Jillian Anne Abaya perform in an immersive-theater version of “The Great Gatsby.” The book’s copyright expired in 2021, and it has been widely adapted since then.",
+          "copyright": "Amir Hamja for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/25/multimedia/25gatsby-02-hlkm/25gatsby-02-hlkm-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Claire Saunders, left, and Jillian Anne Abaya perform in an immersive-theater version of “The Great Gatsby.” The book’s copyright expired in 2021, and it has been widely adapted since then.",
+          "copyright": "Amir Hamja for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/43LK4WV"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "Juneteenth in Brooklyn: Red Velvet Cake Served With a Side of History",
+      "abstract": "“Hey, we’re still here”: At a time when Black families have been leaving New York, the weekend celebration cultivated a sense of community.",
+      "url": "https://www.nytimes.com/2023/06/19/nyregion/brooklyn-juneteenth-food-festival.html",
+      "uri": "nyt://article/b6d2cec2-6268-508c-a4a9-9c08cb665b8f",
+      "byline": "By Dodai Stewart",
+      "item_type": "Article",
+      "updated_date": "2023-06-19T09:07:25-04:00",
+      "created_date": "2023-06-19T03:00:32-04:00",
+      "published_date": "2023-06-19T03:00:32-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Juneteenth", "Black People", "Food"],
+      "org_facet": [
+        "Black-Owned Brooklyn (Blog)",
+        "Weeksville Heritage Center (Brooklyn, NY)"
+      ],
+      "per_facet": [],
+      "geo_facet": ["Brooklyn (NYC)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/19/multimedia/19ny-juneteenth-01-lztk/19ny-juneteenth-01-lztk-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Music, games and lots of delicious dishes were central to the second annual Black-Owned Brooklyn Juneteenth Food Festival at the Weeksville Heritage Center.",
+          "copyright": "Juan Arredondo for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/19/multimedia/19ny-juneteenth-01-lztk/19ny-juneteenth-01-lztk-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Music, games and lots of delicious dishes were central to the second annual Black-Owned Brooklyn Juneteenth Food Festival at the Weeksville Heritage Center.",
+          "copyright": "Juan Arredondo for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/19/multimedia/19ny-juneteenth-01-lztk/19ny-juneteenth-01-lztk-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Music, games and lots of delicious dishes were central to the second annual Black-Owned Brooklyn Juneteenth Food Festival at the Weeksville Heritage Center.",
+          "copyright": "Juan Arredondo for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3qSo3qU"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "This $5,750-a-Month Brooklyn Apartment Has a Smell Test",
+      "abstract": "New Yorkers are used to finding quirky situations when apartment hunting, but a ban on cooking meat and fish in the building might be a new one.",
+      "url": "https://www.nytimes.com/2023/06/18/nyregion/vegan-tenants-landlord-ny.html",
+      "uri": "nyt://article/ecd24777-093e-511a-866d-db2bf47b0bcf",
+      "byline": "By Andy Newman",
+      "item_type": "Article",
+      "updated_date": "2023-06-19T23:13:33-04:00",
+      "created_date": "2023-06-18T17:49:49-04:00",
+      "published_date": "2023-06-18T17:49:49-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Renting and Leasing (Real Estate)",
+        "Landlords",
+        "Veganism",
+        "Discrimination",
+        "Brownstones"
+      ],
+      "org_facet": ["Douglas Elliman Real Estate"],
+      "per_facet": [],
+      "geo_facet": ["Fort Greene (Brooklyn, NY)", "New York City"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/18/multimedia/00ny-vegan-landlord-1-jpvf/00ny-vegan-landlord-1-jpvf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1363,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Andrea Kelly, a broker for Douglas Elliman, explained the landlord’s no-cooking-meat rule to a prospective tenant of a building in Fort Greene, Brooklyn, on Sunday.",
+          "copyright": "Desiree Rios for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/18/multimedia/00ny-vegan-landlord-1-jpvf/00ny-vegan-landlord-1-jpvf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Andrea Kelly, a broker for Douglas Elliman, explained the landlord’s no-cooking-meat rule to a prospective tenant of a building in Fort Greene, Brooklyn, on Sunday.",
+          "copyright": "Desiree Rios for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/18/multimedia/00ny-vegan-landlord-1-jpvf/00ny-vegan-landlord-1-jpvf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Andrea Kelly, a broker for Douglas Elliman, explained the landlord’s no-cooking-meat rule to a prospective tenant of a building in Fort Greene, Brooklyn, on Sunday.",
+          "copyright": "Desiree Rios for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/43N7bQX"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "What’s Behind the Widening Divide Between New York City and Its Suburbs?",
+      "abstract": "Tension between the city and its surrounding areas over issues like crime, immigration and congestion pricing has grown since the pandemic.",
+      "url": "https://www.nytimes.com/2023/06/18/nyregion/suburbs-new-york-city-tension.html",
+      "uri": "nyt://article/8d114466-ef02-54d5-a2a7-b92fbf5f6fc5",
+      "byline": "By Jesse McKinley",
+      "item_type": "Article",
+      "updated_date": "2023-06-20T12:37:49-04:00",
+      "created_date": "2023-06-18T03:00:47-04:00",
+      "published_date": "2023-06-18T03:00:47-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Suburbs",
+        "Politics and Government",
+        "Crime and Criminals",
+        "Immigration and Emigration",
+        "Refugees and Displaced Persons",
+        "Congestion Pricing",
+        "Homeless Persons",
+        "Coronavirus (2019-nCoV)",
+        "Quarantine (Life and Culture)",
+        "Population"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "New York City",
+        "New York Metropolitan Area",
+        "New Jersey"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/18/multimedia/18suburbs-print-3/00suburbs1-fzpw-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ed Day, the Rockland County executive, is one of many county leaders who have taken legal steps to try to stop New York City from sending migrants their way.",
+          "copyright": "Gregg Vigliotti for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/18/multimedia/18suburbs-print-3/00suburbs1-fzpw-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ed Day, the Rockland County executive, is one of many county leaders who have taken legal steps to try to stop New York City from sending migrants their way.",
+          "copyright": "Gregg Vigliotti for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/18/multimedia/18suburbs-print-3/00suburbs1-fzpw-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ed Day, the Rockland County executive, is one of many county leaders who have taken legal steps to try to stop New York City from sending migrants their way.",
+          "copyright": "Gregg Vigliotti for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/444WCIF"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "The ‘Fiercely Loyal’ Adams Adviser Agitating From Inside City Hall",
+      "abstract": "Ingrid Lewis-Martin may be the second most powerful person in New York City government. But her views, leadership style and ethics have raised questions.",
+      "url": "https://www.nytimes.com/2023/06/18/nyregion/ingrid-lewis-martin-adams.html",
+      "uri": "nyt://article/a317dab9-da5e-5fe0-b0c1-e18abffb12d1",
+      "byline": "By Brian M. Rosenthal and Jeffery C. Mays",
+      "item_type": "Article",
+      "updated_date": "2023-06-19T23:17:18-04:00",
+      "created_date": "2023-06-18T03:00:35-04:00",
+      "published_date": "2023-06-18T03:00:35-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Politics and Government",
+        "Content Type: Personal Profile",
+        "Ethics and Official Misconduct",
+        "Conflicts of Interest"
+      ],
+      "org_facet": [],
+      "per_facet": ["Lewis-Martin, Ingrid P", "Adams, Eric L"],
+      "geo_facet": ["New York City"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/14/nyregion/00adams-adviser3/00adams-adviser3-superJumbo-v2.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ingrid Lewis-Martin, left, was the first person whom Eric Adams, then the mayor-elect, thanked onstage on election night.",
+          "copyright": "James Estrin/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/14/nyregion/00adams-adviser3/00adams-adviser3-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ingrid Lewis-Martin, left, was the first person whom Eric Adams, then the mayor-elect, thanked onstage on election night.",
+          "copyright": "James Estrin/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/14/nyregion/00adams-adviser3/00adams-adviser3-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ingrid Lewis-Martin, left, was the first person whom Eric Adams, then the mayor-elect, thanked onstage on election night.",
+          "copyright": "James Estrin/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3PAQt35"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "How the Head of the Universal Hip Hop Museum Spends His Sundays",
+      "abstract": "For Rocky Bucano, who fell for the music after buying a Salt-N-Pepa CD in 1986, his work in the Bronx “doesn’t feel like work.”",
+      "url": "https://www.nytimes.com/2023/06/18/nyregion/universal-hip-hop-museum-rocky-bucano.html",
+      "uri": "nyt://article/7c8978c6-4eb4-5f36-b88d-20269d64e33c",
+      "byline": "By Tammy LaGorce",
+      "item_type": "Article",
+      "updated_date": "2023-06-18T03:00:34-04:00",
+      "created_date": "2023-06-18T03:00:34-04:00",
+      "published_date": "2023-06-18T03:00:34-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Rap and Hip-Hop", "Museums", "Mixed-Use Developments"],
+      "org_facet": ["Universal Hip Hop Museum"],
+      "per_facet": ["Bucano, Rocky"],
+      "geo_facet": ["Bronx (NYC)", "South Bronx (Bronx, NY)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/18/nyregion/18routine5-kgqb/18routine5-kgqb-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "David Dee Delgado for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/18/nyregion/18routine5-kgqb/18routine5-kgqb-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "David Dee Delgado for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/18/nyregion/18routine5-kgqb/18routine5-kgqb-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "David Dee Delgado for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Pk1ZQ3"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "‘I Saw a $20 Bill Float Through the Air Into the Intersection’",
+      "abstract": "Mesmerized by flying cash, returning to a favorite haunt and more reader tales of New York City in this week’s Metropolitan Diary.",
+      "url": "https://www.nytimes.com/2023/06/18/nyregion/metropolitan-diary.html",
+      "uri": "nyt://article/5ceb2246-ee77-5706-88fa-113f808027fc",
+      "byline": "",
+      "item_type": "Article",
+      "updated_date": "2023-06-20T20:00:54-04:00",
+      "created_date": "2023-06-18T03:00:33-04:00",
+      "published_date": "2023-06-18T03:00:33-04:00",
+      "material_type_facet": "",
+      "kicker": "METROPOLITAN DIARY",
       "des_facet": [],
       "org_facet": [],
       "per_facet": [],
-      "geo_facet": [],
+      "geo_facet": ["New York City"],
       "multimedia": [
         {
-          "url": "https://static01.nyt.com/images/2023/02/21/world/21ihtretrospective-image-february/21ihtretrospective-image-february-superJumbo.png",
+          "url": "https://static01.nyt.com/images/2023/06/18/nyregion/18diary-01/18diary-01-superJumbo.jpg",
           "format": "Super Jumbo",
-          "height": 118,
-          "width": 300,
+          "height": 698,
+          "width": 1386,
           "type": "image",
           "subtype": "photo",
           "caption": "",
-          "copyright": " International Herald Tribune"
+          "copyright": ""
         },
         {
-          "url": "https://static01.nyt.com/images/2023/02/21/world/21ihtretrospective-image-february/21ihtretrospective-image-february-threeByTwoSmallAt2X.png",
-          "format": "threeByTwoSmallAt2X",
-          "height": 118,
-          "width": 177,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "",
-          "copyright": " International Herald Tribune"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/world/21ihtretrospective-image-february/21ihtretrospective-image-february-thumbStandard.png",
-          "format": "Standard Thumbnail",
-          "height": 75,
-          "width": 75,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "",
-          "copyright": " International Herald Tribune"
-        }
-      ],
-      "short_url": "https://nyti.ms/3Slm9IJ"
-    },
-    {
-      "section": "climate",
-      "subsection": "",
-      "title": "A Sudden Rush to Make Sustainable Aviation Fuel Mainstream",
-      "abstract": "United Airlines and other companies have started a $100 million fund to invest in jet fuel that produces fewer greenhouse gases.",
-      "url": "https://www.nytimes.com/2023/02/21/climate/united-sustainable-aviation-fuel.html",
-      "uri": "nyt://article/41d0120c-2cfa-5b15-868b-08511514791f",
-      "byline": "By David Gelles",
-      "item_type": "Article",
-      "updated_date": "2023-02-22T11:24:48-05:00",
-      "created_date": "2023-02-21T08:01:08-05:00",
-      "published_date": "2023-02-21T08:01:08-05:00",
-      "material_type_facet": "",
-      "kicker": "",
-      "des_facet": [
-        "Airlines and Airplanes",
-        "Fuel Emissions (Transportation)",
-        "Sustainable Living",
-        "Global Warming",
-        "Carbon Dioxide"
-      ],
-      "org_facet": ["United Airlines"],
-      "per_facet": [],
-      "geo_facet": [],
-      "multimedia": [
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21cli-aviationfuel-sub-qtgc/21cli-aviationfuel-sub-qtgc-superJumbo.jpg",
-          "format": "Super Jumbo",
-          "height": 1365,
-          "width": 2048,
-          "type": "image",
-          "subtype": "photo",
-          "caption": "Aircraft at San Francisco International Airport in 2021. Making sustainable aviation fuel mainstream will be difficult and costly to achieve.",
-          "copyright": "Gabriela Bhaskar/The New York Times"
-        },
-        {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21cli-aviationfuel-sub-qtgc/21cli-aviationfuel-sub-qtgc-threeByTwoSmallAt2X.jpg",
+          "url": "https://static01.nyt.com/images/2023/06/18/nyregion/18diary-01/18diary-01-threeByTwoSmallAt2X.jpg",
           "format": "threeByTwoSmallAt2X",
           "height": 400,
           "width": 600,
           "type": "image",
           "subtype": "photo",
-          "caption": "Aircraft at San Francisco International Airport in 2021. Making sustainable aviation fuel mainstream will be difficult and costly to achieve.",
-          "copyright": "Gabriela Bhaskar/The New York Times"
+          "caption": "",
+          "copyright": ""
         },
         {
-          "url": "https://static01.nyt.com/images/2023/02/21/multimedia/21cli-aviationfuel-sub-qtgc/21cli-aviationfuel-sub-qtgc-thumbLarge.jpg",
+          "url": "https://static01.nyt.com/images/2023/06/18/nyregion/18diary-01/18diary-01-thumbLarge.jpg",
           "format": "Large Thumbnail",
           "height": 150,
           "width": 150,
           "type": "image",
           "subtype": "photo",
-          "caption": "Aircraft at San Francisco International Airport in 2021. Making sustainable aviation fuel mainstream will be difficult and costly to achieve.",
-          "copyright": "Gabriela Bhaskar/The New York Times"
+          "caption": "",
+          "copyright": ""
         }
       ],
-      "short_url": "https://nyti.ms/41gnlBy"
+      "short_url": "https://nyti.ms/3p43x6a"
+    },
+    {
+      "section": "insider",
+      "subsection": "",
+      "title": "Where a Photographer’s Curiosity Became a Two-Year Commitment",
+      "abstract": "In 2021, Jonah Markowitz took an interest in the section of Kensington, Brooklyn, known as “Little Bangladesh.” He hasn’t stopped visiting.",
+      "url": "https://www.nytimes.com/2023/06/18/insider/jonah-markowitz-photographer-brooklyn.html",
+      "uri": "nyt://article/8af6a9cf-750c-57d8-a3f1-94e17d7c1617",
+      "byline": "By John Otis",
+      "item_type": "Article",
+      "updated_date": "2023-06-20T10:33:15-04:00",
+      "created_date": "2023-06-18T03:00:14-04:00",
+      "published_date": "2023-06-18T03:00:14-04:00",
+      "material_type_facet": "",
+      "kicker": "Times Insider",
+      "des_facet": ["Photography", "Bangladeshi-Americans"],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Kensington (Brooklyn, NY)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/18/nyregion/00INSIDER-KENSINGTON-01/00INSIDER-KENSINGTON-02-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Annie Ferdous leads a Bangladeshi folk dancing class in Queens for women, in a culture where public spaces are dominated by men.",
+          "copyright": "Jonah Markowitz for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/18/nyregion/00INSIDER-KENSINGTON-01/00INSIDER-KENSINGTON-02-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Annie Ferdous leads a Bangladeshi folk dancing class in Queens for women, in a culture where public spaces are dominated by men.",
+          "copyright": "Jonah Markowitz for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/18/nyregion/00INSIDER-KENSINGTON-01/00INSIDER-KENSINGTON-01-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Annie Ferdous leads a Bangladeshi folk dancing class in Queens for women, in a culture where public spaces are dominated by men.",
+          "copyright": "Jonah Markowitz for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Ploggw"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "Jack McNally, N.Y.P.D. Detective Turned Defense Sleuth, Dies at 89",
+      "abstract": "After he helped collar the men behind New York City’s biggest jewel heist, he worked as a private investigator for defendants like O.J. Simpson and Patty Hearst.",
+      "url": "https://www.nytimes.com/2023/06/17/nyregion/jack-mcnally-dead.html",
+      "uri": "nyt://article/4e9b5104-4ffe-5bfa-83ed-869482b2e493",
+      "byline": "By Daniel E. Slotnik",
+      "item_type": "Article",
+      "updated_date": "2023-06-19T00:18:44-04:00",
+      "created_date": "2023-06-17T16:51:13-04:00",
+      "published_date": "2023-06-17T16:51:13-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Robberies and Thefts",
+        "Detectives (Private)",
+        "Police"
+      ],
+      "org_facet": [
+        "Police Department (NYC)",
+        "American Museum of Natural History"
+      ],
+      "per_facet": [
+        "McNally, Jack (1933-2023)",
+        "Bailey, F Lee",
+        "Hearst, Patricia",
+        "Murphy, Jack Roland (1937-2020)",
+        "Simpson, O J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/19/multimedia/16McNally1-jbmv/16McNally1-jbmv-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1437,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The police detective turned private investigator Jack McNally, left, with the lawyer F. Lee Bailey, right, and another lawyer, Henry Gonzales, on a break during the robbery trial of Patty Hearst in San Francisco in 1976.",
+          "copyright": "Sal Veder/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/19/multimedia/16McNally1-jbmv/16McNally1-jbmv-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The police detective turned private investigator Jack McNally, left, with the lawyer F. Lee Bailey, right, and another lawyer, Henry Gonzales, on a break during the robbery trial of Patty Hearst in San Francisco in 1976.",
+          "copyright": "Sal Veder/Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/19/multimedia/16McNally1-jbmv/16McNally1-jbmv-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The police detective turned private investigator Jack McNally, left, with the lawyer F. Lee Bailey, right, and another lawyer, Henry Gonzales, on a break during the robbery trial of Patty Hearst in San Francisco in 1976.",
+          "copyright": "Sal Veder/Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3qNN6ez"
+    },
+    {
+      "section": "health",
+      "subsection": "",
+      "title": "The New War on Bad Air",
+      "abstract": "A century ago, a well-ventilated building was considered good medicine. But by the time Covid-19 arrived, our buildings could barely breathe. How did that happen? And how do we let the fresh air back in?",
+      "url": "https://www.nytimes.com/2023/06/17/health/covid-ventilation-air-quality.html",
+      "uri": "nyt://article/368a7c3f-af0d-519b-84b4-65c17c91a500",
+      "byline": "By Emily Anthes",
+      "item_type": "Article",
+      "updated_date": "2023-06-19T23:25:57-04:00",
+      "created_date": "2023-06-17T05:00:55-04:00",
+      "published_date": "2023-06-17T05:00:55-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "your-feed-science",
+        "your-feed-health",
+        "Heating, Ventilation and Cooling (HVAC)",
+        "Workplace Environment",
+        "Epidemics",
+        "Real Estate and Housing (Residential)",
+        "Building (Construction)",
+        "Coronavirus (2019-nCoV)",
+        "Tuberculosis",
+        "Influenza"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["United States"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/20/multimedia/17SCI-ventilation-history-06/00ventilation-history-03-jqlb-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1381,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Smog in Manhattan on Thanksgiving Day in 1966.",
+          "copyright": "Neal Boenzi/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/20/multimedia/17SCI-ventilation-history-06/00ventilation-history-03-jqlb-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Smog in Manhattan on Thanksgiving Day in 1966.",
+          "copyright": "Neal Boenzi/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/20/multimedia/17SCI-ventilation-history-06/00ventilation-history-03-jqlb-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Smog in Manhattan on Thanksgiving Day in 1966.",
+          "copyright": "Neal Boenzi/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/43KVVVc"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "Harlem City Council Election Tests Limits of Progressive Politics",
+      "abstract": "Three moderate Democrats are running to replace Kristin Richardson Jordan, one of the city’s most left-leaning politicians, who is not seeking re-election.",
+      "url": "https://www.nytimes.com/2023/06/17/nyregion/harlem-city-council-primary-election.html",
+      "uri": "nyt://article/f9782f14-d019-5bbb-bcb1-54faf9fd9679",
+      "byline": "By Jeffery C. Mays",
+      "item_type": "Article",
+      "updated_date": "2023-06-17T23:00:25-04:00",
+      "created_date": "2023-06-17T03:00:17-04:00",
+      "published_date": "2023-06-17T03:00:17-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Elections, City Councils",
+        "Primaries and Caucuses",
+        "Politics and Government"
+      ],
+      "org_facet": ["Democratic Party", "City Council (NYC)"],
+      "per_facet": [
+        "Jordan, Kristin Richardson (1987- )",
+        "Salaam, Yusef",
+        "Taylor, Alfred E (1957- )",
+        "Dickens, Inez E"
+      ],
+      "geo_facet": ["New York City", "Harlem (Manhattan, NY)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/17/nyregion/17harlem-council/17harlem-council-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The three Democratic candidates for a City Council seat in Harlem: Yusef Salaam, left; Al Taylor; and Inez Dickens.",
+          "copyright": "Jeenah Moon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/17/nyregion/17harlem-council/17harlem-council-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The three Democratic candidates for a City Council seat in Harlem: Yusef Salaam, left; Al Taylor; and Inez Dickens.",
+          "copyright": "Jeenah Moon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/17/nyregion/17harlem-council/17harlem-council-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The three Democratic candidates for a City Council seat in Harlem: Yusef Salaam, left; Al Taylor; and Inez Dickens.",
+          "copyright": "Jeenah Moon for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Nedfe5"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "What a Commissioner’s Abrupt Exit Says About the N.Y.P.D. Under Adams",
+      "abstract": "The next N.Y.P.D. commissioner will have to contend with the mayor, a wary police force eager for clear leadership and a city worried about both crime and the use of force.",
+      "url": "https://www.nytimes.com/2023/06/17/nyregion/keechant-sewell-nypd.html",
+      "uri": "nyt://article/2c1b395a-403c-512f-8717-40bd4b03bcdb",
+      "byline": "By Maria Cramer and Chelsia Rose Marcius",
+      "item_type": "Article",
+      "updated_date": "2023-06-19T00:07:16-04:00",
+      "created_date": "2023-06-17T03:00:16-04:00",
+      "published_date": "2023-06-17T03:00:16-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Police",
+        "Politics and Government",
+        "Appointments and Executive Changes"
+      ],
+      "org_facet": ["Police Department (NYC)"],
+      "per_facet": ["Sewell, Keechant", "Adams, Eric L"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/17/multimedia/17nypd-sewell-01-kqlv/17nypd-sewell-01-kqlv-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1366,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Keechant Sewell’s successor will also confront her primary challenge: dealing with a mayor deeply enmeshed in the department’s workings.",
+          "copyright": "Anna Watts for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/17/multimedia/17nypd-sewell-01-kqlv/17nypd-sewell-01-kqlv-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Keechant Sewell’s successor will also confront her primary challenge: dealing with a mayor deeply enmeshed in the department’s workings.",
+          "copyright": "Anna Watts for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/17/multimedia/17nypd-sewell-01-kqlv/17nypd-sewell-01-kqlv-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Keechant Sewell’s successor will also confront her primary challenge: dealing with a mayor deeply enmeshed in the department’s workings.",
+          "copyright": "Anna Watts for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3NeGgWV"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "First Muslim Woman to Be Federal Judge Confirmed by Senate",
+      "abstract": "Nusrat Choudhury, a civil rights lawyer, will begin her lifetime appointment as a judge in Federal District Court in Brooklyn.",
+      "url": "https://www.nytimes.com/2023/06/16/nyregion/nusrat-choudhury-muslim-federal-judge.html",
+      "uri": "nyt://article/e7855330-7243-5e6f-962e-820123d32184",
+      "byline": "By Lola Fadulu",
+      "item_type": "Article",
+      "updated_date": "2023-06-20T13:58:50-04:00",
+      "created_date": "2023-06-16T18:02:35-04:00",
+      "published_date": "2023-06-16T18:02:35-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Federal Courts (US)",
+        "Appointments and Executive Changes",
+        "Muslim Americans",
+        "Bangladeshi-Americans",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [],
+      "per_facet": ["Choudhury, Nusrat"],
+      "geo_facet": ["New York State", "Brooklyn (NYC)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/16/multimedia/16NY-JUDGE-lfpv/16NY-JUDGE-lfpv-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1382,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Judge Nusrat Choudhury was most recently the legal director of the American Civil Liberties Union of Illinois. ",
+          "copyright": "Mike De Sisti/Milwaukee Journal-Sentinel, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/16/multimedia/16NY-JUDGE-lfpv/16NY-JUDGE-lfpv-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Judge Nusrat Choudhury was most recently the legal director of the American Civil Liberties Union of Illinois. ",
+          "copyright": "Mike De Sisti/Milwaukee Journal-Sentinel, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/16/multimedia/16NY-JUDGE-lfpv/16NY-JUDGE-lfpv-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Judge Nusrat Choudhury was most recently the legal director of the American Civil Liberties Union of Illinois. ",
+          "copyright": "Mike De Sisti/Milwaukee Journal-Sentinel, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3CwtoGQ"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "Accused in Missing Man’s Grisly Killing: His Ex-Wife and Her Husband",
+      "abstract": "Three years ago, Steven Kraft disappeared. This week, Jamie and Nicholas Orsini were arrested and accused of carrying out an elaborate plot to kill him and dispose of his body.",
+      "url": "https://www.nytimes.com/2023/06/16/nyregion/steven-kraft-murder-arrests.html",
+      "uri": "nyt://article/ed68d358-0084-56fa-b11f-6ef4a2704cb6",
+      "byline": "By Erin Nolan",
+      "item_type": "Article",
+      "updated_date": "2023-06-17T00:56:36-04:00",
+      "created_date": "2023-06-16T13:54:40-04:00",
+      "published_date": "2023-06-16T13:54:40-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Murders, Attempted Murders and Homicides"],
+      "org_facet": [],
+      "per_facet": [
+        "Kraft, Steven (d 2020)",
+        "Orsini, Jamie (April 28, 2020 Murder)",
+        "Orsini, Nicholas (April 28, 2020 Murder)"
+      ],
+      "geo_facet": ["Beacon (NY)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/15/multimedia/15ny-killing-hbpk/15ny-killing-hbpk-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Damian Williams, the U.S. attorney for the Southern District of New York, said Jamie and Nicholas Orsini denied Steven Kraft’s family the “dignity of a proper burial” when they killed him.",
+          "copyright": "Jefferson Siegel for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/15/multimedia/15ny-killing-hbpk/15ny-killing-hbpk-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Damian Williams, the U.S. attorney for the Southern District of New York, said Jamie and Nicholas Orsini denied Steven Kraft’s family the “dignity of a proper burial” when they killed him.",
+          "copyright": "Jefferson Siegel for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/15/multimedia/15ny-killing-hbpk/15ny-killing-hbpk-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Damian Williams, the U.S. attorney for the Southern District of New York, said Jamie and Nicholas Orsini denied Steven Kraft’s family the “dignity of a proper burial” when they killed him.",
+          "copyright": "Jefferson Siegel for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3NuSdJv"
+    },
+    {
+      "section": "business",
+      "subsection": "media",
+      "title": "Richard Severo, Times Reporter in Internal Clash Over Book, Dies at 90",
+      "abstract": "He challenged a company’s prerogative to transfer an employee and a news organization’s ability to assert publishing rights when a reporter’s articles are used for a book.",
+      "url": "https://www.nytimes.com/2023/06/16/business/media/richard-severo-dead.html",
+      "uri": "nyt://article/dc2b6406-72f7-5f05-9958-9220279856c6",
+      "byline": "By Sam Roberts",
+      "item_type": "Article",
+      "updated_date": "2023-06-17T21:52:42-04:00",
+      "created_date": "2023-06-16T13:44:10-04:00",
+      "published_date": "2023-06-16T13:44:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "News and News Media",
+        "Writing and Writers",
+        "Book Trade and Publishing"
+      ],
+      "org_facet": ["New York Times"],
+      "per_facet": ["Severo, Richard"],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/18/multimedia/14severo-lqwh-print1/14severo-lqwh-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Richard Severo, with a colleague, Barbara Campbell, at work in the Times newsroom in 1969. He was a prizewinning reporter before running afoul of his bosses.",
+          "copyright": "Ernie Sisto/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/18/multimedia/14severo-lqwh-print1/14severo-lqwh-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Richard Severo, with a colleague, Barbara Campbell, at work in the Times newsroom in 1969. He was a prizewinning reporter before running afoul of his bosses.",
+          "copyright": "Ernie Sisto/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/18/multimedia/14severo-lqwh-print1/14severo-lqwh-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Richard Severo, with a colleague, Barbara Campbell, at work in the Times newsroom in 1969. He was a prizewinning reporter before running afoul of his bosses.",
+          "copyright": "Ernie Sisto/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3Cwfk0b"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "‘The Power of Trees:’ Among the ‘Machines’ Fighting Climate Change",
+      "abstract": "Adrian Benepe of the Brooklyn Botanic Garden believes in trees and is highlighting them in a new exhibit. And New York’s City Council is back on the ballot starting Saturday.",
+      "url": "https://www.nytimes.com/2023/06/16/nyregion/the-power-of-trees-among-the-machines-fighting-climate-change.html",
+      "uri": "nyt://article/1a932e61-400b-564a-a9c0-b10303f70e41",
+      "byline": "By James Barron",
+      "item_type": "Article",
+      "updated_date": "2023-06-16T05:00:16-04:00",
+      "created_date": "2023-06-16T05:00:16-04:00",
+      "published_date": "2023-06-16T05:00:16-04:00",
+      "material_type_facet": "",
+      "kicker": "New York Today",
+      "des_facet": [
+        "internal-storyline-no",
+        "Flowers and Plants",
+        "Global Warming"
+      ],
+      "org_facet": ["Brooklyn Botanic Garden", "City Council (NYC)"],
+      "per_facet": ["Benepe, Adrian"],
+      "geo_facet": [
+        "New York City",
+        "Brooklyn (NYC)",
+        "Central Park (Manhattan, NY)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/16/nyregion/16nytoday-benepe/16nytoday-benepe-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1311,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michael Stewart, via the Brooklyn Botanic Garden"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/16/nyregion/16nytoday-benepe/16nytoday-benepe-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michael Stewart, via the Brooklyn Botanic Garden"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/16/nyregion/16nytoday-benepe/16nytoday-benepe-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Michael Stewart, via the Brooklyn Botanic Garden"
+        }
+      ],
+      "short_url": "https://nyti.ms/3CzKx2y"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "Choose Wisely, Choose Often: Ranked-Choice Voting Returns to New York",
+      "abstract": "The new voting system was used in the mayor’s race in 2021. It is back this month for the primary races for the City Council.",
+      "url": "https://www.nytimes.com/2023/06/16/nyregion/ranked-choice-voting-nyc.html",
+      "uri": "nyt://article/d221ec5f-4e8f-5985-a80f-419c4458ad48",
+      "byline": "By Emma G. Fitzsimmons",
+      "item_type": "Article",
+      "updated_date": "2023-06-17T13:32:01-04:00",
+      "created_date": "2023-06-16T03:00:09-04:00",
+      "published_date": "2023-06-16T03:00:09-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Ranked-Choice Voting",
+        "Elections, City Councils",
+        "Primaries and Caucuses",
+        "Voting and Voters",
+        "Politics and Government",
+        "Content Type: Service"
+      ],
+      "org_facet": ["City Council (NYC)"],
+      "per_facet": [],
+      "geo_facet": ["New York City"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/13/multimedia/00ny-rcv-pgqb/00ny-rcv-pgqb-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1363,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ranked-choice voting was used in the 2021 primaries in New York City.",
+          "copyright": "Desiree Rios for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/13/multimedia/00ny-rcv-pgqb/00ny-rcv-pgqb-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ranked-choice voting was used in the 2021 primaries in New York City.",
+          "copyright": "Desiree Rios for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/13/multimedia/00ny-rcv-pgqb/00ny-rcv-pgqb-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ranked-choice voting was used in the 2021 primaries in New York City.",
+          "copyright": "Desiree Rios for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/4458ABW"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "Finance Executive Accused of Drugging and Raping Teen in Midtown Hotel",
+      "abstract": "Michael Olson, 54, flew the girl around the country, passing her off as his daughter, prosecutors said. He kept spreadsheets of children he contacted, they said.",
+      "url": "https://www.nytimes.com/2023/06/15/nyregion/michael-olson-rape-charges-14-year-old.html",
+      "uri": "nyt://article/c5c9170f-92b0-5f40-b1c0-898b39ffb0e1",
+      "byline": "By Jonah E. Bromwich",
+      "item_type": "Article",
+      "updated_date": "2023-06-16T08:58:11-04:00",
+      "created_date": "2023-06-15T16:14:09-04:00",
+      "published_date": "2023-06-15T16:14:09-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": ["Sex Crimes", "Drug Abuse and Traffic"],
+      "org_facet": ["Instagram Inc"],
+      "per_facet": [],
+      "geo_facet": ["Las Vegas (Nev)"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/15/multimedia/15teen-rape-gqjz/15teen-rape-gqjz-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prosecutors said the girl was overdosing on cocaine and ketamine when she was found. There may be more victims. ",
+          "copyright": "Leonardo Munoz/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/15/multimedia/15teen-rape-gqjz/15teen-rape-gqjz-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prosecutors said the girl was overdosing on cocaine and ketamine when she was found. There may be more victims. ",
+          "copyright": "Leonardo Munoz/Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/15/multimedia/15teen-rape-gqjz/15teen-rape-gqjz-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prosecutors said the girl was overdosing on cocaine and ketamine when she was found. There may be more victims. ",
+          "copyright": "Leonardo Munoz/Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3N8tkSt"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "De Blasio Owes City $475,000 for Bringing Police on Presidential Campaign",
+      "abstract": "New York City’s Conflicts of Interest Board said the former mayor must reimburse the city for police officers’ travel, and pay a record fine.",
+      "url": "https://www.nytimes.com/2023/06/15/nyregion/de-blasio-fine.html",
+      "uri": "nyt://article/d7a00a29-2fef-5b48-8c55-3f6db079ec44",
+      "byline": "By Michael Gold",
+      "item_type": "Article",
+      "updated_date": "2023-06-16T12:27:23-04:00",
+      "created_date": "2023-06-15T15:52:45-04:00",
+      "published_date": "2023-06-15T15:52:45-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Conflicts of Interest",
+        "Ethics and Official Misconduct",
+        "Fines (Penalties)",
+        "Presidential Election of 2020",
+        "Campaign Finance",
+        "Politics and Government"
+      ],
+      "org_facet": [
+        "Conflicts of Interest Board (NYC)",
+        "Department of Investigation (NYC)"
+      ],
+      "per_facet": ["de Blasio, Bill"],
+      "geo_facet": ["New York City"],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/06/15/multimedia/15DEBLASIO-FINE-vjfk/15DEBLASIO-FINE-vjfk-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The former mayor’s campaign lasted just four months in 2019. According to the Conflicts of Interest Board, the city spent $319,794.20 in travel-related costs for members of his security detail.",
+          "copyright": "Travis Dove for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/15/multimedia/15DEBLASIO-FINE-vjfk/15DEBLASIO-FINE-vjfk-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The former mayor’s campaign lasted just four months in 2019. According to the Conflicts of Interest Board, the city spent $319,794.20 in travel-related costs for members of his security detail.",
+          "copyright": "Travis Dove for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/06/15/multimedia/15DEBLASIO-FINE-vjfk/15DEBLASIO-FINE-vjfk-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The former mayor’s campaign lasted just four months in 2019. According to the Conflicts of Interest Board, the city spent $319,794.20 in travel-related costs for members of his security detail.",
+          "copyright": "Travis Dove for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3PfNJaP"
     }
   ]
 }
